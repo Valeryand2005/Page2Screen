@@ -7,10 +7,6 @@
 - [Usage](#-usage)
 - [Game Flow](#-game-flow)
 - [Technical Details](#-technical-details)
-- [Testing](#-testing)
-- [Future Roadmap](#-future-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🚀 Features
 
@@ -143,62 +139,3 @@ python server/server.py --debug
 | 5 Players         | 1.8ms   | 7%        |
 | Network Loss      | Auto-recover | +2%  |
 
-## 🧪 Testing
-
-### Test Cases
-```bash
-# Run all unit tests
-python -m unittest discover tests
-
-# Specific test module
-python tests/test_game_manager.py
-```
-
-### CI Integration
-```yaml
-# Sample GitHub Actions
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - run: python -m unittest discover tests
-```
-
-## 🛣️ Future Roadmap
-
-### Near-term
-- [ ] WebSocket support for browser clients
-- [ ] Persistent leaderboards
-- [ ] Question editor GUI
-
-### Long-term
-- [ ] Voice chat integration
-- [ ] AI question generation
-- [ ] Tournament mode
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature`)
-3. Commit changes (`git commit -am 'Add feature'`)
-4. Push to branch (`git push origin feature`)
-5. Open Pull Request
-
-## 📜 License
-
-MIT License
-
-Copyright (c) 2023 Your Name
-
-Permission is hereby granted... [standard MIT text]
-
----
-
-**Development Team**:  
-[Your Name] - Lead Developer  
-[Team Member 2] - Network Engineer  
-[Team Member 3] - Game Designer  
-
-**Institution**: [Your University]  
-**Last Updated**: October 2023
