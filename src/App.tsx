@@ -8,8 +8,8 @@ import ChatAI from './pages/ChatAI';
 
 function App() {
   return (
-    <Router>
-      <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-white transition-colors duration-300">
+      <Router>
         <Header />
         <main className="container mx-auto px-4 py-8">
           <Routes>
@@ -19,8 +19,8 @@ function App() {
             <Route path="/chat" element={<ChatAI />} />
           </Routes>
         </main>
-      </div>
-    </Router>
+      </Router>
+    </div>
   );
 }
 
