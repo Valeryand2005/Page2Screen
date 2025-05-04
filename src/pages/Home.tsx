@@ -27,8 +27,8 @@ const Home: React.FC = () => {
   return (
     <div className="max-w-7xl mx-auto">
       {/* Hero Section */}
-      <section className="text-center mb-16 bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-12">
-        <h1 className="text-5xl font-bold text-gray-900 mb-6">
+      <section className="text-center mb-16 bg-gradient-to-r from-green-50 to-blue-50 dark:from-gray-900 dark:to-gray-900 rounded-2xl p-12">
+        <h1 className="text-5xl font-bold text-gray-900 mb-6 dark:text-white">
           Discover Your Next Favorite Story
         </h1>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
@@ -43,7 +43,7 @@ const Home: React.FC = () => {
           </Link>
           <Link
             to="/chat"
-            className="px-8 py-3 border-2 border-green-600 text-green-600 rounded-lg hover:bg-green-50 transition-colors font-semibold"
+            className="px-8 py-3 border-2 border-green-600 text-green-600 rounded-lg hover:bg-green-50 dark:hover:bg-gray-900 transition-colors font-semibold"
           >
             Chat with AI
           </Link>
@@ -54,7 +54,7 @@ const Home: React.FC = () => {
       <div className="grid md:grid-cols-3 gap-8 mb-16">
         <Link
           to="/search"
-          className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow transform hover:-translate-y-1 duration-200"
+          className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow transform hover:-translate-y-1 duration-200 dark:bg-gray-900"
         >
           <Search className="h-12 w-12 text-green-600 mb-6" />
           <h2 className="text-2xl font-semibold mb-4">Advanced Search</h2>
@@ -68,7 +68,7 @@ const Home: React.FC = () => {
 
         <Link
           to="/chat"
-          className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow transform hover:-translate-y-1 duration-200"
+          className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow transform hover:-translate-y-1 duration-200 dark:bg-gray-900"
         >
           <MessageSquare className="h-12 w-12 text-green-600 mb-6" />
           <h2 className="text-2xl font-semibold mb-4">AI Chat Assistant</h2>
@@ -80,7 +80,7 @@ const Home: React.FC = () => {
           </span>
         </Link>
 
-        <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow transform hover:-translate-y-1 duration-200">
+        <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow transform hover:-translate-y-1 duration-200 dark:bg-gray-900">
           <Sparkles className="h-12 w-12 text-green-600 mb-6" />
           <h2 className="text-2xl font-semibold mb-4">Mood-based Discovery</h2>
           <p className="text-gray-600 mb-4">
@@ -105,7 +105,7 @@ const Home: React.FC = () => {
         </div>
         <div className="grid md:grid-cols-3 gap-8">
           {trendingItems.map((item, index) => (
-            <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden">
+            <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden dark:bg-gray-900">
               <img
                 src={item.image}
                 alt={item.title}
@@ -132,7 +132,7 @@ const Home: React.FC = () => {
       </section>
 
       {/* Statistics Section */}
-      <section className="bg-white rounded-xl shadow-lg p-8 mb-16">
+      <section className="bg-white rounded-xl shadow-lg p-8 mb-16 dark:bg-gray-900">
         <div className="grid md:grid-cols-3 gap-8 text-center">
           <div>
             <div className="text-4xl font-bold text-green-600 mb-2">100,000+</div>
