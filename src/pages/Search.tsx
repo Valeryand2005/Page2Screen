@@ -36,8 +36,8 @@ const Search: React.FC = () => {
 
   return (
     <div className="max-w-7xl mx-auto">
-      <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-8 mb-8">
-        <h1 className="text-3xl font-bold text-gray-900 mb-6">Advanced Search</h1>
+      <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-8 mb-8 dark:from-gray-900 dark:to-gray-900 rounded-2xl p-12">
+        <h1 className="text-3xl font-bold text-gray-900 mb-6 dark:text-white">Advanced Search</h1>
         
         <div className="flex items-center space-x-4 mb-6">
           <div className="flex-1">
@@ -47,14 +47,14 @@ const Search: React.FC = () => {
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Search books, movies, or series..."
-                className="w-full pl-12 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent text-lg"
+                className="w-full pl-12 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent text-lg text-gray-900 dark:text-white bg-white dark:bg-gray-900 dark:border-gray-800"
               />
               <SearchIcon className="absolute left-4 top-3.5 h-6 w-6 text-gray-400" />
             </div>
           </div>
           <button 
             onClick={() => setShowFilters(!showFilters)}
-            className="px-6 py-3 bg-white border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors flex items-center gap-2"
+            className="px-6 py-3 bg-white border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors flex items-center gap-2 dark:bg-gray-900 dark:border-gray-800 dark:text-gray-400"
           >
             <Filter className="h-5 w-5" />
             Filters
@@ -66,14 +66,14 @@ const Search: React.FC = () => {
         </div>
 
         {showFilters && (
-          <div className="bg-white rounded-lg p-6 shadow-lg">
+          <div className="bg-white rounded-lg p-6 shadow-lg dark:bg-gray-900">
             <div className="grid md:grid-cols-3 gap-6">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">Type</label>
                 <select
                   value={selectedType}
                   onChange={(e) => setSelectedType(e.target.value)}
-                  className="w-full p-2 border border-gray-300 rounded-md"
+                  className="w-full p-2 border border-gray-300 rounded-md dark:bg-gray-900 dark:border-gray-800"
                 >
                   <option value="all">All Types</option>
                   <option value="book">Books</option>
@@ -86,7 +86,7 @@ const Search: React.FC = () => {
                 <select
                   value={selectedGenre}
                   onChange={(e) => setSelectedGenre(e.target.value)}
-                  className="w-full p-2 border border-gray-300 rounded-md"
+                  className="w-full p-2 border border-gray-300 rounded-md dark:bg-gray-900 dark:border-gray-800"
                 >
                   <option value="all">All Genres</option>
                   <option value="fiction">Fiction</option>
@@ -98,7 +98,7 @@ const Search: React.FC = () => {
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">Rating</label>
                 <select
-                  className="w-full p-2 border border-gray-300 rounded-md"
+                  className="w-full p-2 border border-gray-300 rounded-md dark:bg-gray-900 dark:border-gray-800"
                 >
                   <option value="all">Any Rating</option>
                   <option value="4plus">4+ Stars</option>
@@ -112,7 +112,7 @@ const Search: React.FC = () => {
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {searchResults.map((item, index) => (
-          <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+          <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow dark:bg-gray-900">
             <img
               src={item.image}
               alt={item.title}
