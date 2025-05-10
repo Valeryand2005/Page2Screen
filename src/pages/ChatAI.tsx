@@ -19,38 +19,47 @@ const ChatAI: React.FC = () => {
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  const handleSend = () => {
+  const handleSend = async () => {
     if (!message.trim()) return;
 
-    setMessages([
-      ...messages,
-      { type: 'user', content: message },
-      { 
-        type: 'ai',
-        content: "Based on your interest, I would recommend 'The Name of the Wind' by Patrick Rothfuss. It's a magical fantasy story with a unique magic system and compelling characters. Would you like more similar recommendations?",
-        recommendations: [
-          {
-            title: "The Name of the Wind",
-            type: "book",
-            author: "Patrick Rothfuss",
-            rating: 4.7,
-            image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=300&h=400"
-          }
-        ]
-      }
-    ]);
+    const userMessage = { type: 'user', content: message };
+    setMessages(prev => [...prev, userMessage]);
     setMessage('');
+
+    try {
+      const response = await fetch('http://localhost:5000/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message })
+      });
+
+      const data = await response.json();
+      console.log('Recommendations:', data.recommendations);
+
+      const aiMessage = {
+        type: 'ai',
+        content: "Based on your interest, here are some recommendations:",
+        recommendations: data.recommendations || []
+      };
+
+      setMessages(prev => [...prev, aiMessage]);
+    } catch (err) {
+      console.error('Fetch error:', err);
+      setMessages(prev => [...prev, {
+        type: 'ai',
+        content: "Sorry, something went wrong while fetching recommendations."
+      }]);
+    }
   };
 
   useEffect(() => {
-    // Scroll to bottom whenever messages update
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
   return (
     <div className="max-w-4xl mx-auto p-2">
       <div className="bg-white rounded-xl shadow-lg overflow-hidden dark:bg-gray-900 custom-scroll">
-        
+
         {/* Header */}
         <div className="p-6 border-b border-gray-200 dark:border-gray-800">
           <div className="flex items-center gap-3">
@@ -66,10 +75,7 @@ const ChatAI: React.FC = () => {
         <div className="h-[340px] p-6 overflow-y-auto bg-gray-50 dark:bg-gray-900 custom-scroll">
           <div className="space-y-6">
             {messages.map((msg, index) => (
-              <div
-                key={index}
-                className={`flex ${msg.type === 'user' ? 'justify-end' : 'justify-start'}`}
-              >
+              <div key={index} className={`flex ${msg.type === 'user' ? 'justify-end' : 'justify-start'}`}>
                 <div
                   className={`rounded-lg p-4 w-fit max-w-[80%] break-words whitespace-pre-wrap ${
                     msg.type === 'user'
@@ -86,26 +92,36 @@ const ChatAI: React.FC = () => {
                     <div>
                       <p>{msg.content}</p>
 
+                      {/* Recommendations */}
                       {msg.recommendations && (
                         <div className="mt-4 bg-gray-100 rounded-lg p-4 dark:bg-gray-900">
-                          {msg.recommendations.map((rec, idx) => (
-                            <div key={idx} className="flex items-center gap-4">
-                              <img
+                          {msg.recommendations.length === 0 ? (
+                            <p className="text-sm text-gray-500">No recommendations found for your query.</p>
+                          ) : (
+                            msg.recommendations.map((rec, idx) => (
+                              <div key={idx} className="flex items-center gap-4 mb-4">
+                                <img
                                 src={rec.image}
                                 alt={rec.title}
                                 className="w-16 h-24 object-cover rounded"
-                              />
-                              <div>
+                                onError={(e) => { e.currentTarget.src = 'https://via.placeholder.com/100x150?text=No+Image'; }}
+                                />
                                 <h4 className="font-semibold">{rec.title}</h4>
-                                <p className="text-sm text-gray-600 dark:text-gray-400">by {rec.author}</p>
+                                {rec.author && (
+                                  <p className="text-sm text-gray-600 dark:text-gray-400">by {rec.author}</p>
+                                )}
+                                {rec.description && (
+                                  <p className="text-sm text-gray-500 mt-1">{rec.description}</p>
+                                )}
                                 <div className="flex items-center gap-1 mt-1">
                                   <Star className="h-4 w-4 text-yellow-400 fill-current" />
                                   <span className="text-sm">{rec.rating}</span>
                                 </div>
                               </div>
-                            </div>
-                          ))}
-                          <div className="flex items-center gap-2 mt-4">
+                            ))
+                          )}
+
+                          <div className="flex items-center gap-2 mt-2">
                             <button className="p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-full transition-colors">
                               <ThumbsUp className="h-4 w-4" />
                             </button>
@@ -121,7 +137,6 @@ const ChatAI: React.FC = () => {
                 </div>
               </div>
             ))}
-            {/* Always scroll to bottom */}
             <div ref={messagesEndRef} />
           </div>
         </div>
