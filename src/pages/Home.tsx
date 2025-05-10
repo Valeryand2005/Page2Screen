@@ -135,7 +135,7 @@ const Home: React.FC = () => {
       <section className="bg-white rounded-xl shadow-lg p-8 mb-16 dark:bg-gray-900">
         <div className="grid md:grid-cols-3 gap-8 text-center">
           <div>
-            <div className="text-4xl font-bold text-green-600 mb-2">100,000+</div>
+            <div className="text-4xl font-bold text-green-600 mb-2">330,000+</div>
             <div className="text-gray-600">Books & Movies</div>
           </div>
           <div>
