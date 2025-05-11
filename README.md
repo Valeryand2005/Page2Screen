@@ -32,6 +32,8 @@ git clone https://github.com/your-username/PAGE2SCREEN.git
 npm install
 ```
 3. Running the Application
+```
+```
 3.1. Start backend server:
 
 ```bash
@@ -46,6 +48,7 @@ npm run dev -- --host
 ```
 
 📂 Project Structure
+```
 PAGE2SCREEN/
 ├── .bolt/
 ├── backend/
@@ -83,6 +86,7 @@ PAGE2SCREEN/
 ├── tsconfig.json
 ├── tsconfig.node.json
 └── vite.config.ts # Vite configuration
+```
 
 🛠️ Scripts
 Frontend:
