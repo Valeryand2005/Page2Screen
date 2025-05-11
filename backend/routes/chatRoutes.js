@@ -13,16 +13,21 @@ router.post('/', (req, res) => {
 
   const recommendations = recommend(message);
 
-  const formatted = [...recommendations.books, ...recommendations.movies].map(item => ({
-    title: item.title,
-    type: item.author ? 'book' : 'movie',
-    author: item.author || null,
-    rating: item.rating || 0,
-    description: item.description || generateDescription(item),
-    image: item.image || generateImage(item),
-    explanation: explainRecommendation(item, message),
-    year: item.year || null
-  }));
+  const formatted = [...recommendations.books, ...recommendations.movies].map(item => {
+    const image = item.image || generateImage(item);
+    console.log('Generated image URL:', image);
+
+    return {
+      title: item.title,
+      type: item.author ? 'book' : 'movie',
+      author: item.author || null,
+      rating: item.rating || 0,
+      description: item.description || generateDescription(item),
+      image,
+      explanation: explainRecommendation(item, message),
+      year: item.year || null
+    };
+  });
 
   res.json({ recommendations: formatted });
 });
@@ -31,18 +36,10 @@ export default router;
 
 // ---------- Вспомогательные функции ----------
 
-function generateDescription(item) {
-  const genre = item.genre || (item.genres?.[0]) || 'fiction';
-  const mood = item.mood?.slice(0, 2).join(', ') || 'varied themes';
-  const type = item.author ? 'book' : 'film';
-
-  return `A ${genre.toLowerCase()} ${type} titled '${item.title}', exploring themes typical of the genre, including ${mood}.`;
-}
-
 function generateImage(item) {
-  const genre = (item.genre || item.genres?.[0] || 'book').toLowerCase();
+  const type = item.author ? 'book' : 'movie';
+  const genre = (item.genre || item.genres?.[0] || type).toLowerCase();
 
-  // Ограниченные ключевые слова для лучшей генерации Unsplash
   const keywords =
     genre.includes('fantasy') ? 'fantasy,magic' :
     genre.includes('horror') ? 'horror,dark' :
@@ -50,7 +47,8 @@ function generateImage(item) {
     genre.includes('sci-fi') ? 'sci-fi,space' :
     genre.includes('comedy') ? 'fun,comedy' :
     genre.includes('adventure') ? 'adventure,journey' :
-    'book';
+    'art';
 
-  return `https://source.unsplash.com/featured/300x400/?${encodeURIComponent(keywords)}`;
+  return `https://picsum.photos/300/400?random=${Math.floor(Math.random() * 1000)}`;
+
 }
