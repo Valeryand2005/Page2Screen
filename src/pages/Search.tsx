@@ -1,44 +1,110 @@
-import React, { useState } from 'react';
-import { Search as SearchIcon, Filter, BookOpen, Film, Star, Clock, ChevronDown } from 'lucide-react';
+import React, { useEffect, useState } from 'react';
+import { Search as SearchIcon, Filter, BookOpen, Film, Star, ChevronDown } from 'lucide-react';
+
+type Item = {
+  title: string;
+  type: 'book' | 'movie';
+  author?: string;
+  director?: string;
+  rating: number;
+  genre: string;
+  image: string;
+};
+
+function generateImage(item: any) {
+  const type = item.author ? 'book' : 'movie';
+  const genre = (item.genre || item.genres?.[0] || type).toLowerCase();
+
+  const keywords =
+    genre.includes('fantasy') ? 'fantasy,magic' :
+    genre.includes('horror') ? 'horror,dark' :
+    genre.includes('romance') ? 'romance,love' :
+    genre.includes('sci-fi') ? 'sci-fi,space' :
+    genre.includes('comedy') ? 'fun,comedy' :
+    genre.includes('adventure') ? 'adventure,journey' :
+    'art';
+
+  return `https://picsum.photos/600/800?random=${Math.floor(Math.random() * 1000)}`;
+}
 
 const Search: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedType, setSelectedType] = useState<string>('all');
   const [selectedGenre, setSelectedGenre] = useState<string>('all');
+  const [selectedRating, setSelectedRating] = useState<string>('all');
   const [showFilters, setShowFilters] = useState(false);
+  const [allResults, setAllResults] = useState<Item[]>([]);
+  const [filteredResults, setFilteredResults] = useState<Item[]>([]);
 
-  const searchResults = [
-    {
-      title: "The Midnight Library",
-      type: "book",
-      author: "Matt Haig",
-      rating: 4.2,
-      genre: "Fiction",
-      image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=300&h=400"
-    },
-    {
-      title: "Oppenheimer",
-      type: "movie",
-      director: "Christopher Nolan",
-      rating: 4.8,
-      genre: "Drama",
-      image: "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=300&h=400"
-    },
-    {
-      title: "Foundation",
-      type: "series",
-      creator: "David S. Goyer",
-      rating: 4.5,
-      genre: "Sci-Fi",
-      image: "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?auto=format&fit=crop&w=300&h=400"
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const booksRes = await fetch('/data/books.json');
+        const moviesRes = await fetch('/data/movies.json');
+        const books = await booksRes.json();
+        const movies = await moviesRes.json();
+
+        const formattedBooks = books.map((book: any) => ({
+          title: book.title,
+          type: 'book',
+          author: book.author || 'Unknown',
+          rating: book.rating || 0,
+          genre: (book.genres && book.genres[0]) || 'Unknown',
+          image: generateImage(book),
+        }));
+
+        const formattedMovies = movies.map((movie: any) => ({
+          title: movie.title,
+          type: 'movie',
+          director: movie.director || 'Unknown',
+          rating: movie.rating || 0,
+          genre: (movie.genres && movie.genres[0]) || 'Unknown',
+          image: generateImage(movie),
+        }));
+
+        const mergedResults = [...formattedBooks, ...formattedMovies];
+        setAllResults(mergedResults);
+        setFilteredResults(mergedResults);
+      } catch (error) {
+        console.error('Error loading data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  const handleSearch = () => {
+    let results = allResults;
+
+    if (searchQuery.trim()) {
+      const query = searchQuery.toLowerCase();
+      results = results.filter(item =>
+        item.title.toLowerCase().includes(query)
+      );
     }
-  ];
+
+    if (selectedType !== 'all') {
+      results = results.filter(item => item.type === selectedType);
+    }
+
+    if (selectedGenre !== 'all') {
+      results = results.filter(item => item.genre.toLowerCase() === selectedGenre.toLowerCase());
+    }
+
+    if (selectedRating === '4plus') {
+      results = results.filter(item => item.rating >= 4);
+    } else if (selectedRating === '3plus') {
+      results = results.filter(item => item.rating >= 3);
+    }
+
+    setFilteredResults(results);
+  };
 
   return (
     <div className="max-w-7xl mx-auto">
-      <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-8 mb-8 dark:from-gray-900 dark:to-gray-900 rounded-2xl p-12">
+      <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-2xl p-12 mb-8 dark:from-gray-900 dark:to-gray-900">
         <h1 className="text-3xl font-bold text-gray-900 mb-6 dark:text-white">Advanced Search</h1>
-        
+
         <div className="flex items-center space-x-4 mb-6">
           <div className="flex-1">
             <div className="relative">
@@ -58,9 +124,12 @@ const Search: React.FC = () => {
           >
             <Filter className="h-5 w-5" />
             Filters
-            <ChevronDown className={`h-4 w-4 transition-transform ${showFilters ? 'transform rotate-180' : ''}`} />
+            <ChevronDown className={`h-4 w-4 transition-transform ${showFilters ? 'rotate-180' : ''}`} />
           </button>
-          <button className="px-8 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors font-semibold">
+          <button 
+            onClick={handleSearch}
+            className="px-8 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors font-semibold"
+          >
             Search
           </button>
         </div>
@@ -78,7 +147,6 @@ const Search: React.FC = () => {
                   <option value="all">All Types</option>
                   <option value="book">Books</option>
                   <option value="movie">Movies</option>
-                  <option value="series">Series</option>
                 </select>
               </div>
               <div>
@@ -91,13 +159,16 @@ const Search: React.FC = () => {
                   <option value="all">All Genres</option>
                   <option value="fiction">Fiction</option>
                   <option value="drama">Drama</option>
-                  <option value="scifi">Sci-Fi</option>
+                  <option value="romance">Romance</option>
                   <option value="thriller">Thriller</option>
+                  <option value="sci-fi">Sci-Fi</option>
                 </select>
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">Rating</label>
                 <select
+                  value={selectedRating}
+                  onChange={(e) => setSelectedRating(e.target.value)}
                   className="w-full p-2 border border-gray-300 rounded-md dark:bg-gray-900 dark:border-gray-800"
                 >
                   <option value="all">Any Rating</option>
@@ -111,37 +182,41 @@ const Search: React.FC = () => {
       </div>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {searchResults.map((item, index) => (
-          <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow dark:bg-gray-900">
-            <img
-              src={item.image}
-              alt={item.title}
-              className="w-full h-48 object-cover"
-            />
-            <div className="p-6">
-              <div className="flex items-center gap-2 mb-2">
-                {item.type === 'movie' && <Film className="h-5 w-5 text-blue-500" />}
-                {item.type === 'book' && <BookOpen className="h-5 w-5 text-green-500" />}
-                {item.type === 'series' && <Film className="h-5 w-5 text-purple-500" />}
-                <span className="text-sm font-medium text-gray-500 capitalize">
-                  {item.type}
-                </span>
-                <span className="text-sm text-gray-500">•</span>
-                <span className="text-sm text-gray-500">{item.genre}</span>
-              </div>
-              <h3 className="text-xl font-semibold mb-2">{item.title}</h3>
-              <p className="text-gray-600 text-sm mb-3">
-                {item.type === 'book' && `By ${item.author}`}
-                {item.type === 'movie' && `Directed by ${item.director}`}
-                {item.type === 'series' && `Created by ${item.creator}`}
-              </p>
-              <div className="flex items-center gap-1">
-                <Star className="h-5 w-5 text-yellow-400 fill-current" />
-                <span className="font-medium">{item.rating}</span>
+        {filteredResults.length > 0 ? (
+          filteredResults.map((item, index) => (
+            <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow dark:bg-gray-900">
+              <img
+                src={item.image}
+                alt={item.title}
+                className="w-full h-48 object-cover"
+              />
+              <div className="p-6">
+                <div className="flex items-center gap-2 mb-2">
+                  {item.type === 'movie' && <Film className="h-5 w-5 text-blue-500" />}
+                  {item.type === 'book' && <BookOpen className="h-5 w-5 text-green-500" />}
+                  <span className="text-sm font-medium text-gray-500 capitalize">
+                    {item.type}
+                  </span>
+                  <span className="text-sm text-gray-500">•</span>
+                  <span className="text-sm text-gray-500">{item.genre}</span>
+                </div>
+                <h3 className="text-xl font-semibold mb-2">
+                  {item.title.replace(/\s\d+$/, '')}
+                </h3>
+                <p className="text-gray-600 text-sm mb-3">
+                  {item.type === 'book' && `By ${item.author}`}
+                  {item.type === 'movie' && `Directed by ${item.director}`}
+                </p>
+                <div className="flex items-center gap-1">
+                  <Star className="h-5 w-5 text-yellow-400 fill-current" />
+                  <span className="font-medium">{item.rating}</span>
+                </div>
               </div>
             </div>
-          </div>
-        ))}
+          ))
+        ) : (
+          <p className="text-gray-500 text-center col-span-full">No results found.</p>
+        )}
       </div>
     </div>
   );
