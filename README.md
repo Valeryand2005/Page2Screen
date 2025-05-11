@@ -25,21 +25,25 @@ A modern web platform that bridges literary and cinematic experiences. Built wit
 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/PAGE2SCREEN.git
-Install dependencies:
+```
+2. Install dependencies:
 
-bash
+```bash
 npm install
+```
+3. Running the Application
+3.1. Start backend server:
 
-Running the Application
-Start backend server:
-
-bash
+```bash
 cd backend
 node server.js
-Start frontend development server:
+```
 
-bash
+3.2. Start frontend development server:
+
+```bash
 npm run dev -- --host
+```
 
 📂 Project Structure
 PAGE2SCREEN/
