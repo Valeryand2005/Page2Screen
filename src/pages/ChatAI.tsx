@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Send, Sparkles, MessageSquare, ThumbsUp, ThumbsDown, Star } from 'lucide-react';
+import { Search as SearchIcon, ChevronDown, Filter, BookOpen, Film,Send, Sparkles, MessageSquare, ThumbsUp, ThumbsDown, Star } from 'lucide-react';
 
 const ChatAI: React.FC = () => {
   const [message, setMessage] = useState('');
@@ -59,7 +59,6 @@ const ChatAI: React.FC = () => {
   return (
     <div className="max-w-4xl mx-auto p-2">
       <div className="bg-white rounded-xl shadow-lg overflow-hidden dark:bg-gray-900 custom-scroll">
-
         {/* Header */}
         <div className="p-6 border-b border-gray-200 dark:border-gray-800">
           <div className="flex items-center gap-3">
@@ -94,28 +93,34 @@ const ChatAI: React.FC = () => {
 
                       {/* Recommendations */}
                       {msg.recommendations && (
-                        <div className="mt-4 bg-gray-100 rounded-lg p-4 dark:bg-gray-900">
+                        <div className="mt-4 space-y-4">
                           {msg.recommendations.length === 0 ? (
                             <p className="text-sm text-gray-500">No recommendations found for your query.</p>
                           ) : (
                             msg.recommendations.map((rec, idx) => (
-                              <div key={idx} className="flex items-center gap-4 mb-4">
+                              <div key={idx} className="flex gap-4 bg-gray-100 dark:bg-gray-900 p-3 rounded-lg">
                                 <img
-                                src={rec.image}
-                                alt={rec.title}
-                                className="w-16 h-24 object-cover rounded"
-                                onError={(e) => { e.currentTarget.src = 'https://via.placeholder.com/100x150?text=No+Image'; }}
+                                  src={rec.image || 'https://via.placeholder.com/100x150?text=No+Image'}
+                                  alt={rec.title}
+                                  className="w-16 h-24 object-cover rounded"
+                                  onError={(e) => {
+                                    (e.target as HTMLImageElement).src = 'https://via.placeholder.com/100x150?text=Image+Error';
+                                  }}
                                 />
-                                <h4 className="font-semibold">{rec.title}</h4>
-                                {rec.author && (
-                                  <p className="text-sm text-gray-600 dark:text-gray-400">by {rec.author}</p>
-                                )}
-                                {rec.description && (
-                                  <p className="text-sm text-gray-500 mt-1">{rec.description}</p>
-                                )}
-                                <div className="flex items-center gap-1 mt-1">
-                                  <Star className="h-4 w-4 text-yellow-400 fill-current" />
-                                  <span className="text-sm">{rec.rating}</span>
+                                <div className="flex-1">
+                                  <h4 className="font-semibold">{rec.title}</h4>
+                                  {rec.author && (
+                                    <p className="text-sm text-gray-600 dark:text-gray-400">by {rec.author}</p>
+                                  )}
+                                  {rec.description && (
+                                    <p className="text-sm text-gray-500 mt-1">{rec.description}</p>
+                                  )}
+                                  {rec.rating && (
+                                    <div className="flex items-center gap-1 mt-1">
+                                      <Star className="h-4 w-4 text-yellow-400 fill-current" />
+                                      <span className="text-sm">{rec.rating}</span>
+                                    </div>
+                                  )}
                                 </div>
                               </div>
                             ))
@@ -131,7 +136,6 @@ const ChatAI: React.FC = () => {
                           </div>
                         </div>
                       )}
-
                     </div>
                   </div>
                 </div>
@@ -175,7 +179,6 @@ const ChatAI: React.FC = () => {
             </button>
           </div>
         </div>
-
       </div>
     </div>
   );
