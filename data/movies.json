@@ -1,493 +1,108 @@
 [
   {
-    "title": "Catman in Boxer's Blow",
-    "year": 1989,
+    "title": "Validit\u00e0 giorni dieci",
+    "year": 1940,
     "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "rating": 5.6,
-    "tags": [
-      "journey",
-      "explosions",
-      "fight",
-      "hero",
-      "exploration",
-      "discovery",
-      "popular"
-    ],
-    "mood": [
-      "exciting",
-      "intense",
-      "energetic",
-      "heroic"
-    ],
-    "description": "A action film titled 'Catman in Boxer's Blow', exploring themes typical of the genre.",
-    "similar": [
-      "\u00d6l\u00fcms\u00fcz Ask",
-      "Kalaakaar"
-    ]
-  },
-  {
-    "title": "Z7 Operation Rembrandt",
-    "year": 1966,
-    "genres": [
-      "Adventure",
-      "Thriller"
-    ],
-    "rating": 5.1,
-    "tags": [
-      "journey",
-      "mystery",
-      "exploration",
-      "tense",
-      "discovery",
-      "suspense",
-      "popular"
-    ],
-    "mood": [
-      "suspenseful",
-      "dark",
-      "heroic",
-      "exciting"
-    ],
-    "description": "A adventure film titled 'Z7 Operation Rembrandt', exploring themes typical of the genre.",
-    "similar": [
-      "The Truth",
-      "An Occurrence at Owl Creek Bridge"
-    ]
-  },
-  {
-    "title": "When the Greeks",
-    "year": 1981,
-    "genres": [
-      "Adventure",
-      "Drama",
-      "War"
-    ],
-    "rating": 6.2,
-    "tags": [
-      "conflict",
-      "journey",
-      "relationships",
-      "exploration",
-      "discovery",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "heroic",
-      "exciting"
-    ],
-    "description": "A adventure film titled 'When the Greeks', exploring themes typical of the genre.",
-    "similar": [
-      "Kura no naka",
-      "Drottningen och jag"
-    ]
-  },
-  {
-    "title": "Please Don't Destroy: The Treasure of Foggy Mountain",
-    "year": 2023,
-    "genres": [
-      "Action",
-      "Adventure",
       "Comedy"
-    ],
-    "rating": 6.0,
-    "tags": [
-      "journey",
-      "explosions",
-      "fight",
-      "hero",
-      "funny",
-      "light-hearted",
-      "exploration",
-      "discovery",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "energetic",
-      "upbeat",
-      "exciting",
-      "intense",
-      "fun",
-      "heroic"
-    ],
-    "description": "A action film titled 'Please Don't Destroy: The Treasure of Foggy Mountain', exploring themes typical of the genre.",
-    "similar": [
-      "Cowboy's Heart",
-      "Six in the City"
-    ]
-  },
-  {
-    "title": "Warning!!! Pedophile Released",
-    "year": 2009,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 2.9,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "romantic",
-      "sentimental"
-    ],
-    "description": "A crime film titled 'Warning!!! Pedophile Released', exploring themes typical of the genre.",
-    "similar": [
-      "AKA Mr. Chow",
-      "Murder Weapon"
-    ]
-  },
-  {
-    "title": "Delinquent",
-    "year": 1995,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "rating": 6.3,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A crime film titled 'Delinquent', exploring themes typical of the genre.",
-    "similar": [
-      "Meeku Meere Maaku Meeme",
-      "Hansa"
-    ]
-  },
-  {
-    "title": "The Wonderful Crook",
-    "year": 1975,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 6.3,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "romantic",
-      "sentimental"
-    ],
-    "description": "A crime film titled 'The Wonderful Crook', exploring themes typical of the genre.",
-    "similar": [
-      "The Sinners",
-      "Isle of the Dead"
-    ]
-  },
-  {
-    "title": "That Demon Within",
-    "year": 2014,
-    "genres": [
-      "Action",
-      "Crime",
-      "Horror"
     ],
     "rating": 5.9,
     "tags": [
+      "humor",
+      "light-hearted",
+      "funny",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Validit\u00e0 giorni dieci', exploring themes typical of the genre.",
+    "similar": [
+      "Hot & Nasty",
+      "Royal de luxe, retour d'Afrique"
+    ]
+  },
+  {
+    "title": "Ava Justin Popovic",
+    "year": 2007,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "rating": 8.1,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A biography film titled 'Ava Justin Popovic', exploring themes typical of the genre.",
+    "similar": [
+      "0,03 Seconde",
+      "The Nurse"
+    ]
+  },
+  {
+    "title": "Frankenstein Reborn!",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "rating": 4.4,
+    "tags": [
+      "journey",
       "explosions",
       "fight",
-      "dark",
-      "scary",
       "hero",
+      "scary",
+      "dark",
+      "exploration",
       "gore",
+      "discovery",
       "popular"
     ],
     "mood": [
       "frightening",
-      "intense",
+      "energetic",
       "chilling",
-      "energetic"
-    ],
-    "description": "A action film titled 'That Demon Within', exploring themes typical of the genre.",
-    "similar": [
-      "Last Wishes",
-      "Looking for Bruce"
-    ]
-  },
-  {
-    "title": "Kahit ako'y busabos",
-    "year": 1993,
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "rating": 6.6,
-    "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "hero",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
+      "exciting",
       "intense",
-      "energetic"
+      "heroic"
     ],
-    "description": "A action film titled 'Kahit ako'y busabos', exploring themes typical of the genre.",
+    "description": "A action film titled 'Frankenstein Reborn!', exploring themes typical of the genre.",
     "similar": [
-      "Eden",
-      "Fue no shiratama"
+      "24/7: The Passion of Life",
+      "Aan: Men at Work"
     ]
   },
   {
-    "title": "Tell Me Something",
-    "year": 1999,
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "rating": 6.4,
-    "tags": [
-      "suspense",
-      "mystery",
-      "tense",
-      "popular"
-    ],
-    "mood": [
-      "suspenseful",
-      "dark"
-    ],
-    "description": "A crime film titled 'Tell Me Something', exploring themes typical of the genre.",
-    "similar": [
-      "Ploning",
-      "Hope Eternal"
-    ]
-  },
-  {
-    "title": "Balcsillag",
-    "year": 2023,
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "rating": 6.6,
-    "tags": [
-      "relationships",
-      "conflict",
-      "mystery",
-      "tense",
-      "suspense",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "suspenseful",
-      "dark"
-    ],
-    "description": "A drama film titled 'Balcsillag', exploring themes typical of the genre.",
-    "similar": [
-      "Rodney",
-      "Justine"
-    ]
-  },
-  {
-    "title": "The Grind",
+    "title": "Heimo's Arctic Refuge",
     "year": 2010,
     "genres": [
-      "Action",
-      "Crime",
-      "Drama"
+      "Documentary"
     ],
-    "rating": 6.2,
+    "rating": 8.2,
     "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "hero",
-      "emotional",
       "popular"
     ],
-    "mood": [
-      "serious",
-      "emotional",
-      "intense",
-      "energetic"
-    ],
-    "description": "A action film titled 'The Grind', exploring themes typical of the genre.",
+    "mood": [],
+    "description": "A documentary film titled 'Heimo's Arctic Refuge', exploring themes typical of the genre.",
     "similar": [
-      "Bright Lights",
-      "City of Fear"
+      "Im Haus der alten Augustin",
+      "One Night"
     ]
   },
   {
-    "title": "Year of the Devil",
-    "year": 2002,
+    "title": "The Northerners",
+    "year": 1992,
     "genres": [
       "Comedy",
-      "Drama",
-      "Fantasy"
+      "Drama"
     ],
     "rating": 7.3,
     "tags": [
       "relationships",
       "conflict",
-      "epic",
-      "magic",
-      "light-hearted",
-      "funny",
-      "emotional",
-      "mythical",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "imaginative",
-      "upbeat",
-      "serious",
-      "emotional",
-      "fun",
-      "whimsical"
-    ],
-    "description": "A comedy film titled 'Year of the Devil', exploring themes typical of the genre.",
-    "similar": [
-      "Army Girl",
-      "The Goldwyn Follies"
-    ]
-  },
-  {
-    "title": "From Nine to Nine",
-    "year": 1936,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "rating": 4.1,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A crime film titled 'From Nine to Nine', exploring themes typical of the genre.",
-    "similar": [
-      "Hello My Love",
-      "Snatched"
-    ]
-  },
-  {
-    "title": "Yeh Saali Zindagi",
-    "year": 2011,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "rating": 7.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "mystery",
-      "tense",
-      "suspense",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "suspenseful",
-      "dark"
-    ],
-    "description": "A crime film titled 'Yeh Saali Zindagi', exploring themes typical of the genre.",
-    "similar": [
-      "Actually Happened! Most Terrifying Psychic Phenomena. Psychic Research Team Report. Relived.",
-      "Halloween Heroes"
-    ]
-  },
-  {
-    "title": "The Jerusalem File",
-    "year": 1972,
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "rating": 6.0,
-    "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "hero",
-      "mystery",
-      "tense",
-      "suspense",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "energetic",
-      "dark",
-      "serious",
-      "intense",
-      "emotional",
-      "suspenseful"
-    ],
-    "description": "A action film titled 'The Jerusalem File', exploring themes typical of the genre.",
-    "similar": [
-      "Pup-o, ma!",
-      "Pecado na Sacristia"
-    ]
-  },
-  {
-    "title": "Chasing Yesterday",
-    "year": 2015,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "rating": 8.2,
-    "tags": [
-      "relationships",
-      "conflict",
       "light-hearted",
       "funny",
       "emotional",
@@ -500,910 +115,219 @@
       "fun",
       "upbeat"
     ],
-    "description": "A comedy film titled 'Chasing Yesterday', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'The Northerners', exploring themes typical of the genre.",
     "similar": [
-      "Beijing Rocks",
-      "Asa Branca: A Brazilian Dream"
+      "Pobeda",
+      "Dead Girls Don't Tango"
     ]
   },
   {
-    "title": "Jesters",
-    "year": 2018,
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "rating": 6.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "light-hearted",
-      "funny",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "fun",
-      "upbeat"
-    ],
-    "description": "A comedy film titled 'Jesters', exploring themes typical of the genre.",
-    "similar": [
-      "Victim",
-      "Santa Swap: Merry Christmas Mr. Andersen"
-    ]
-  },
-  {
-    "title": "The Cruel Sea",
-    "year": 1944,
-    "genres": [
-      "Biography",
-      "Drama",
-      "War"
-    ],
-    "rating": 5.3,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A biography film titled 'The Cruel Sea', exploring themes typical of the genre.",
-    "similar": [
-      "Isla",
-      "Dead Pigs"
-    ]
-  },
-  {
-    "title": "The Battle of Tagrift",
-    "year": 1981,
-    "genres": [
-      "Action",
-      "Drama",
-      "War"
-    ],
-    "rating": 4.7,
-    "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "hero",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "intense",
-      "energetic"
-    ],
-    "description": "A action film titled 'The Battle of Tagrift', exploring themes typical of the genre.",
-    "similar": [
-      "Gundagardi",
-      "Turning Green"
-    ]
-  },
-  {
-    "title": "The Cardboard Village",
-    "year": 2011,
-    "genres": [
-      "Drama"
-    ],
-    "rating": 6.3,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A drama film titled 'The Cardboard Village', exploring themes typical of the genre.",
-    "similar": [
-      "The Eighth Day",
-      "Miel de naranjas"
-    ]
-  },
-  {
-    "title": "Long Live Love!",
-    "year": 2023,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 6.6,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "light-hearted",
-      "funny",
-      "passion",
-      "love",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "upbeat",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "fun"
-    ],
-    "description": "A comedy film titled 'Long Live Love!', exploring themes typical of the genre.",
-    "similar": [
-      "Long Vacations of 36",
-      "Crying Ladies"
-    ]
-  },
-  {
-    "title": "North of Nome",
-    "year": 1936,
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "rating": 7.7,
-    "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "hero",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "intense",
-      "energetic"
-    ],
-    "description": "A action film titled 'North of Nome', exploring themes typical of the genre.",
-    "similar": [
-      "Deeper and Deeper",
-      "Cuzzo"
-    ]
-  },
-  {
-    "title": "Juggernaut",
-    "year": 2017,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Family"
-    ],
-    "rating": 5.3,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A crime film titled 'Juggernaut', exploring themes typical of the genre.",
-    "similar": [
-      "Old School",
-      "Olemme kaikki syyllisi\u00e4"
-    ]
-  },
-  {
-    "title": "Something Blue",
-    "year": 2009,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 6.2,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "light-hearted",
-      "funny",
-      "passion",
-      "love",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "upbeat",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "fun"
-    ],
-    "description": "A comedy film titled 'Something Blue', exploring themes typical of the genre.",
-    "similar": [
-      "Die Kellnerin Anna",
-      "The Maze"
-    ]
-  },
-  {
-    "title": "Kalyana Vaibhogame",
-    "year": 2016,
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "rating": 6.7,
-    "tags": [
-      "relationships",
-      "conflict",
-      "light-hearted",
-      "funny",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "fun",
-      "upbeat"
-    ],
-    "description": "A comedy film titled 'Kalyana Vaibhogame', exploring themes typical of the genre.",
-    "similar": [
-      "Bayam Oru Payanam",
-      "Golden Goddess of Rio Beni"
-    ]
-  },
-  {
-    "title": "Peter the First",
-    "year": 1937,
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "rating": 7.2,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A biography film titled 'Peter the First', exploring themes typical of the genre.",
-    "similar": [
-      "The Skin I'm In",
-      "Look 4 Them"
-    ]
-  },
-  {
-    "title": "Ruas Rivais",
-    "year": 2014,
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ],
-    "rating": 4.3,
-    "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "light-hearted",
-      "hero",
-      "funny",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "energetic",
-      "upbeat",
-      "serious",
-      "intense",
-      "emotional",
-      "fun"
-    ],
-    "description": "A action film titled 'Ruas Rivais', exploring themes typical of the genre.",
-    "similar": [
-      "Not a Photograph: The Mission of Burma Story",
-      "Switch"
-    ]
-  },
-  {
-    "title": "Pitra, Putra Aur Dharamyuddha",
-    "year": 1994,
-    "genres": [
-      "Documentary",
-      "Drama"
-    ],
-    "rating": 8.6,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A documentary film titled 'Pitra, Putra Aur Dharamyuddha', exploring themes typical of the genre.",
-    "similar": [
-      "Coyote and Bronca",
-      "Live Free or Die"
-    ]
-  },
-  {
-    "title": "The Hunter's Diary",
-    "year": 1964,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "rating": 7.4,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A crime film titled 'The Hunter's Diary', exploring themes typical of the genre.",
-    "similar": [
-      "Chronicles of a Wandering Saint",
-      "Wolf and Sheep"
-    ]
-  },
-  {
-    "title": "Little White Boy",
-    "year": 2002,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "rating": 8.0,
-    "tags": [
-      "relationships",
-      "conflict",
-      "light-hearted",
-      "funny",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "fun",
-      "upbeat"
-    ],
-    "description": "A comedy film titled 'Little White Boy', exploring themes typical of the genre.",
-    "similar": [
-      "Dear Thomas",
-      "Ayar"
-    ]
-  },
-  {
-    "title": "The Script of Life",
-    "year": 2019,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 7.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "light-hearted",
-      "funny",
-      "passion",
-      "love",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "upbeat",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "fun"
-    ],
-    "description": "A comedy film titled 'The Script of Life', exploring themes typical of the genre.",
-    "similar": [
-      "Super X",
-      "Step Down to Terror"
-    ]
-  },
-  {
-    "title": "Escaping Ohio",
-    "year": 2023,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 7.1,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "light-hearted",
-      "funny",
-      "passion",
-      "love",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "upbeat",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "fun"
-    ],
-    "description": "A comedy film titled 'Escaping Ohio', exploring themes typical of the genre.",
-    "similar": [
-      "El escritor de telenovelas",
-      "Mad Cow Sacred Cow"
-    ]
-  },
-  {
-    "title": "Hustler White",
-    "year": 1996,
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "rating": 5.8,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "romantic",
-      "sentimental"
-    ],
-    "description": "A drama film titled 'Hustler White', exploring themes typical of the genre.",
-    "similar": [
-      "Lacy's Christmas Do-Over",
-      "Coming Back"
-    ]
-  },
-  {
-    "title": "That's My Man",
-    "year": 1947,
-    "genres": [
-      "Drama",
-      "Romance",
-      "Sport"
-    ],
-    "rating": 6.1,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "romantic",
-      "sentimental"
-    ],
-    "description": "A drama film titled 'That's My Man', exploring themes typical of the genre.",
-    "similar": [
-      "Cry Uncle",
-      "Let The Bell Ring"
-    ]
-  },
-  {
-    "title": "49 Days",
-    "year": 2015,
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 4.9,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "light-hearted",
-      "funny",
-      "passion",
-      "love",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "upbeat",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "fun"
-    ],
-    "description": "A comedy film titled '49 Days', exploring themes typical of the genre.",
-    "similar": [
-      "Hello, My Cat",
-      "Kill the Irishman"
-    ]
-  },
-  {
-    "title": "Torpedo Boat",
-    "year": 1942,
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 7.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "explosions",
-      "fight",
-      "hero",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "energetic",
-      "serious",
-      "intense",
-      "romantic",
-      "sentimental",
-      "emotional"
-    ],
-    "description": "A action film titled 'Torpedo Boat', exploring themes typical of the genre.",
-    "similar": [
-      "The Flesh Is Weak",
-      "Eine weisse unter Kannibalen"
-    ]
-  },
-  {
-    "title": "Until We Meet Again",
-    "year": 2022,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "rating": 4.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "epic",
-      "heartbreak",
-      "magic",
-      "passion",
-      "emotional",
-      "mythical",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "imaginative",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "whimsical"
-    ],
-    "description": "A drama film titled 'Until We Meet Again', exploring themes typical of the genre.",
-    "similar": [
-      "Through a Lens Darkly: Grief, Loss and C.S. Lewis",
-      "The Planet"
-    ]
-  },
-  {
-    "title": "Nicholas Nickleby",
-    "year": 2002,
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "rating": 7.1,
-    "tags": [
-      "conflict",
-      "journey",
-      "relationships",
-      "heartbreak",
-      "passion",
-      "exploration",
-      "discovery",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "exciting",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "heroic"
-    ],
-    "description": "A adventure film titled 'Nicholas Nickleby', exploring themes typical of the genre.",
-    "similar": [
-      "De Van Waveren Tapes",
-      "Rainbow"
-    ]
-  },
-  {
-    "title": "On Chesil Beach",
-    "year": 2017,
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "rating": 6.3,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "romantic",
-      "sentimental"
-    ],
-    "description": "A drama film titled 'On Chesil Beach', exploring themes typical of the genre.",
-    "similar": [
-      "Abbott and Costello Meet the Keystone Kops",
-      "Navagraham"
-    ]
-  },
-  {
-    "title": "On i Ona",
+    "title": "Keeping up with the Joneses: The Movie",
     "year": 2013,
     "genres": [
       "Comedy",
-      "Drama",
-      "Romance"
+      "Thriller"
+    ],
+    "rating": 5.8,
+    "tags": [
+      "light-hearted",
+      "funny",
+      "mystery",
+      "tense",
+      "suspense",
+      "humor",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "suspenseful",
+      "upbeat",
+      "dark"
+    ],
+    "description": "A comedy film titled 'Keeping up with the Joneses: The Movie', exploring themes typical of the genre.",
+    "similar": [
+      "Krik delfina",
+      "Curro Vargas"
+    ]
+  },
+  {
+    "title": "Brighton 4th",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
     ],
     "rating": 6.8,
     "tags": [
       "relationships",
       "conflict",
-      "heartbreak",
       "light-hearted",
       "funny",
-      "passion",
-      "love",
       "emotional",
       "humor",
       "popular"
     ],
     "mood": [
-      "upbeat",
       "serious",
-      "romantic",
-      "sentimental",
       "emotional",
-      "fun"
-    ],
-    "description": "A comedy film titled 'On i Ona', exploring themes typical of the genre.",
-    "similar": [
-      "i1",
-      "Air No. 3"
-    ]
-  },
-  {
-    "title": "Hold the Door",
-    "year": 2007,
-    "genres": [
-      "Drama",
-      "Romance",
-      "Thriller"
-    ],
-    "rating": 6.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "mystery",
-      "passion",
-      "tense",
-      "suspense",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "dark",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "suspenseful"
-    ],
-    "description": "A drama film titled 'Hold the Door', exploring themes typical of the genre.",
-    "similar": [
-      "Koltso iz Amsterdama",
-      "Malambo"
-    ]
-  },
-  {
-    "title": "Hot Tub Time Machine 2",
-    "year": 2015,
-    "genres": [
-      "Comedy",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "rating": 5.0,
-    "tags": [
-      "light-hearted",
-      "space",
-      "funny",
-      "technology",
-      "future",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "epic",
-      "thought-provoking",
       "fun",
       "upbeat"
     ],
-    "description": "A comedy film titled 'Hot Tub Time Machine 2', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'Brighton 4th', exploring themes typical of the genre.",
     "similar": [
-      "Daens",
-      "2012: Curse of the Xtabai"
+      "The Judgment",
+      "Rolande met de bles"
     ]
   },
   {
-    "title": "Melody",
-    "year": 1971,
+    "title": "Mandate: Mission from the Gods",
+    "year": 2008,
     "genres": [
-      "Comedy",
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "rating": 6.7,
+    "tags": [
+      "epic",
+      "explosions",
+      "fight",
+      "magic",
+      "hero",
+      "mythical"
+    ],
+    "mood": [
+      "whimsical",
+      "intense",
+      "imaginative",
+      "energetic"
+    ],
+    "description": "A action film titled 'Mandate: Mission from the Gods', exploring themes typical of the genre.",
+    "similar": [
+      "The Adventurous Fuzze",
+      "Miracle at St. Anna"
+    ]
+  },
+  {
+    "title": "32. decembar",
+    "year": 2009,
+    "genres": [
       "Drama",
       "Romance"
     ],
-    "rating": 7.5,
+    "rating": 6.7,
     "tags": [
       "relationships",
       "conflict",
       "heartbreak",
-      "light-hearted",
-      "funny",
       "passion",
-      "love",
       "emotional",
+      "love",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "romantic",
+      "sentimental"
+    ],
+    "description": "A drama film titled '32. decembar', exploring themes typical of the genre.",
+    "similar": [
+      "Dementia: An Experiment in Terror",
+      "Computer Love"
+    ]
+  },
+  {
+    "title": "Doro inu",
+    "year": 1964,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "rating": 7.0,
+    "tags": [
+      "explosions",
+      "fight",
+      "hero",
+      "popular"
+    ],
+    "mood": [
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'Doro inu', exploring themes typical of the genre.",
+    "similar": [
+      "Fifty-fifty",
+      "The Soul-Mate"
+    ]
+  },
+  {
+    "title": "A Gnome Named Gnorm",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 4.4,
+    "tags": [
+      "journey",
+      "explosions",
+      "fight",
+      "hero",
+      "funny",
+      "light-hearted",
+      "exploration",
+      "discovery",
       "humor",
       "popular"
     ],
     "mood": [
+      "energetic",
       "upbeat",
-      "serious",
-      "romantic",
-      "sentimental",
-      "emotional",
-      "fun"
+      "exciting",
+      "intense",
+      "fun",
+      "heroic"
     ],
-    "description": "A comedy film titled 'Melody', exploring themes typical of the genre.",
+    "description": "A action film titled 'A Gnome Named Gnorm', exploring themes typical of the genre.",
     "similar": [
-      "Born",
-      "Constable Paulus' Easter Bomb"
+      "Battle of the Warriors",
+      "Lady Hyde"
     ]
   },
   {
-    "title": "Le brasier ardent",
-    "year": 1923,
+    "title": "Reasonable Doubt",
+    "year": 2014,
     "genres": [
-      "Comedy",
+      "Crime",
       "Drama",
       "Mystery"
     ],
-    "rating": 7.3,
+    "rating": 5.7,
     "tags": [
+      "emotional",
       "relationships",
       "conflict",
-      "light-hearted",
-      "funny",
-      "emotional",
-      "humor",
       "popular"
     ],
     "mood": [
       "serious",
-      "emotional",
-      "fun",
-      "upbeat"
+      "emotional"
     ],
-    "description": "A comedy film titled 'Le brasier ardent', exploring themes typical of the genre.",
+    "description": "A crime film titled 'Reasonable Doubt', exploring themes typical of the genre.",
     "similar": [
-      "Love Dave",
-      "Deadline - U.S.A."
+      "Springsville",
+      "Everything Is Thunder"
     ]
   },
   {
-    "title": "Sandwich",
-    "year": 2006,
-    "genres": [
-      "Comedy",
-      "Thriller"
-    ],
-    "rating": 5.6,
-    "tags": [
-      "light-hearted",
-      "funny",
-      "mystery",
-      "tense",
-      "suspense",
-      "humor"
-    ],
-    "mood": [
-      "fun",
-      "suspenseful",
-      "upbeat",
-      "dark"
-    ],
-    "description": "A comedy film titled 'Sandwich', exploring themes typical of the genre.",
-    "similar": [
-      "Les convoyeurs attendent",
-      "Chupp"
-    ]
-  },
-  {
-    "title": "Panic Mechanic",
-    "year": 1996,
+    "title": "Donna... cosa si fa per te",
+    "year": 1976,
     "genres": [
       "Comedy"
     ],
-    "rating": 6.0,
+    "rating": 5.4,
     "tags": [
       "humor",
       "light-hearted",
@@ -1414,15 +338,129 @@
       "fun",
       "upbeat"
     ],
-    "description": "A comedy film titled 'Panic Mechanic', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'Donna... cosa si fa per te', exploring themes typical of the genre.",
     "similar": [
-      "The Blood Drinkers",
-      "Black and Blue"
+      "Jusqu'au cou",
+      "The General Died at Dawn"
     ]
   },
   {
-    "title": "Coffee with Ana",
+    "title": "That Burning Sensation",
+    "year": 1978,
+    "genres": [
+      "Adult"
+    ],
+    "rating": 3.2,
+    "tags": [],
+    "mood": [],
+    "description": "A adult film titled 'That Burning Sensation', exploring themes typical of the genre.",
+    "similar": []
+  },
+  {
+    "title": "Kings in Paradise: The Vieques Case",
     "year": 2017,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "rating": 8.0,
+    "tags": [],
+    "mood": [],
+    "description": "A documentary film titled 'Kings in Paradise: The Vieques Case', exploring themes typical of the genre.",
+    "similar": []
+  },
+  {
+    "title": "Elf on the Run",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "rating": 5.6,
+    "tags": [
+      "journey",
+      "epic",
+      "magic",
+      "exploration",
+      "discovery",
+      "mythical",
+      "popular"
+    ],
+    "mood": [
+      "whimsical",
+      "heroic",
+      "imaginative",
+      "exciting"
+    ],
+    "description": "A adventure film titled 'Elf on the Run', exploring themes typical of the genre.",
+    "similar": [
+      "Eradu Nakshatragalu",
+      "A Darker Reality"
+    ]
+  },
+  {
+    "title": "Memories of Michael",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "rating": 5.0,
+    "tags": [
+      "relationships",
+      "conflict",
+      "heartbreak",
+      "explosions",
+      "fight",
+      "hero",
+      "passion",
+      "emotional",
+      "love",
+      "popular"
+    ],
+    "mood": [
+      "energetic",
+      "serious",
+      "intense",
+      "romantic",
+      "sentimental",
+      "emotional"
+    ],
+    "description": "A action film titled 'Memories of Michael', exploring themes typical of the genre.",
+    "similar": [
+      "Hassisen Kone stadionilla",
+      "Jiu suo"
+    ]
+  },
+  {
+    "title": "3 Day Weekend",
+    "year": 2019,
+    "genres": [
+      "Thriller"
+    ],
+    "rating": 4.9,
+    "tags": [
+      "suspense",
+      "mystery",
+      "tense",
+      "popular"
+    ],
+    "mood": [
+      "suspenseful",
+      "dark"
+    ],
+    "description": "A thriller film titled '3 Day Weekend', exploring themes typical of the genre.",
+    "similar": [
+      "The Screaming Sky",
+      "Rac kvelaze dzalian gikvars 2"
+    ]
+  },
+  {
+    "title": "On the Right Track",
+    "year": 1981,
     "genres": [
       "Comedy",
       "Romance"
@@ -1434,7 +472,8 @@
       "passion",
       "humor",
       "heartbreak",
-      "love"
+      "love",
+      "popular"
     ],
     "mood": [
       "sentimental",
@@ -1442,99 +481,250 @@
       "romantic",
       "upbeat"
     ],
-    "description": "A comedy film titled 'Coffee with Ana', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'On the Right Track', exploring themes typical of the genre.",
     "similar": [
-      "The Highlander Girl",
-      "Seven S"
+      "Vacation Hunter",
+      "Metal Noir"
     ]
   },
   {
-    "title": "Hyancha Kahi Nem Nahi",
-    "year": 2007,
+    "title": "Taranthriller",
+    "year": 1997,
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Thriller"
     ],
-    "rating": 7.4,
+    "rating": 2.4,
     "tags": [
-      "humor",
-      "light-hearted",
-      "funny"
-    ],
-    "mood": [
-      "fun",
-      "upbeat"
-    ],
-    "description": "A comedy film titled 'Hyancha Kahi Nem Nahi', exploring themes typical of the genre.",
-    "similar": [
-      "And Then Came Lola",
-      "Sirvientas a domicilio"
-    ]
-  },
-  {
-    "title": "V Tsenturiya. V poiskakh zacharovannykh sokrovishch",
-    "year": 2010,
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "rating": 3.7,
-    "tags": [
-      "journey",
       "light-hearted",
       "funny",
-      "exploration",
-      "discovery",
+      "mystery",
+      "tense",
+      "suspense",
       "humor",
       "popular"
     ],
     "mood": [
       "fun",
-      "heroic",
+      "suspenseful",
       "upbeat",
-      "exciting"
+      "dark"
     ],
-    "description": "A adventure film titled 'V Tsenturiya. V poiskakh zacharovannykh sokrovishch', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'Taranthriller', exploring themes typical of the genre.",
     "similar": [
-      "Sparkle",
-      "Uma Fam\u00edlia Feliz"
+      "Ruby Booby",
+      "Backlash"
     ]
   },
   {
-    "title": "The Big Empty",
-    "year": 2003,
+    "title": "To Life",
+    "year": 2014,
     "genres": [
-      "Comedy",
+      "Drama"
+    ],
+    "rating": 6.4,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A drama film titled 'To Life', exploring themes typical of the genre.",
+    "similar": [
+      "The Couch Trip",
+      "Aitsa"
+    ]
+  },
+  {
+    "title": "Aaj Ka Nanha Farishta",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 6.2,
+    "tags": [
+      "explosions",
+      "fight",
+      "hero",
+      "mystery",
+      "tense",
+      "suspense",
+      "popular"
+    ],
+    "mood": [
+      "suspenseful",
+      "dark",
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'Aaj Ka Nanha Farishta', exploring themes typical of the genre.",
+    "similar": [
+      "Magasment\u00e9s",
+      "The Topless War"
+    ]
+  },
+  {
+    "title": "Mother Nocturna",
+    "year": 2022,
+    "genres": [
       "Drama",
+      "Horror",
       "Mystery"
     ],
-    "rating": 6.0,
+    "rating": 6.7,
     "tags": [
       "relationships",
       "conflict",
-      "light-hearted",
-      "funny",
+      "scary",
+      "dark",
+      "gore",
       "emotional",
-      "humor",
       "popular"
     ],
     "mood": [
       "serious",
       "emotional",
-      "fun",
-      "upbeat"
+      "frightening",
+      "chilling"
     ],
-    "description": "A comedy film titled 'The Big Empty', exploring themes typical of the genre.",
+    "description": "A drama film titled 'Mother Nocturna', exploring themes typical of the genre.",
     "similar": [
-      "From Jennifer",
-      "Variety Lights"
+      "Solar Crisis",
+      "The Big Fun Carnival"
     ]
   },
   {
-    "title": "Thanassis, Tighten Your Belt Some More",
-    "year": 1980,
+    "title": "Deuce Coupe",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "rating": 5.4,
+    "tags": [
+      "relationships",
+      "conflict",
+      "heartbreak",
+      "passion",
+      "emotional",
+      "love",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "romantic",
+      "sentimental"
+    ],
+    "description": "A drama film titled 'Deuce Coupe', exploring themes typical of the genre.",
+    "similar": [
+      "Amongst Bees",
+      "Finky"
+    ]
+  },
+  {
+    "title": "The Other Shore: The Diana Nyad Story",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Documentary"
+    ],
+    "rating": 7.2,
+    "tags": [
+      "journey",
+      "exploration",
+      "discovery",
+      "popular"
+    ],
+    "mood": [
+      "heroic",
+      "exciting"
+    ],
+    "description": "A adventure film titled 'The Other Shore: The Diana Nyad Story', exploring themes typical of the genre.",
+    "similar": [
+      "Behind God's Back",
+      "Action Boys"
+    ]
+  },
+  {
+    "title": "Sex/Life in L.A.",
+    "year": 1998,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 5.6,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A documentary film titled 'Sex/Life in L.A.', exploring themes typical of the genre.",
+    "similar": [
+      "Al son de la marimba",
+      "Polarizados"
+    ]
+  },
+  {
+    "title": "Good Night City",
+    "year": 2018,
+    "genres": [
+      "Thriller"
+    ],
+    "rating": 9.0,
+    "tags": [
+      "suspense",
+      "mystery",
+      "tense",
+      "popular"
+    ],
+    "mood": [
+      "suspenseful",
+      "dark"
+    ],
+    "description": "A thriller film titled 'Good Night City', exploring themes typical of the genre.",
+    "similar": [
+      "Wife to Be Molested",
+      "Night Song"
+    ]
+  },
+  {
+    "title": "Little Joe, the Wrangler",
+    "year": 1942,
+    "genres": [
+      "Drama",
+      "Music",
+      "Western"
+    ],
+    "rating": 6.1,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A drama film titled 'Little Joe, the Wrangler', exploring themes typical of the genre.",
+    "similar": [
+      "Hinge khndzorin",
+      "Arr\u00eatez-moi"
+    ]
+  },
+  {
+    "title": "20:30:40",
+    "year": 2004,
     "genres": [
       "Comedy",
-      "Drama"
+      "Drama",
+      "Music"
     ],
     "rating": 6.6,
     "tags": [
@@ -1552,86 +742,108 @@
       "fun",
       "upbeat"
     ],
-    "description": "A comedy film titled 'Thanassis, Tighten Your Belt Some More', exploring themes typical of the genre.",
+    "description": "A comedy film titled '20:30:40', exploring themes typical of the genre.",
     "similar": [
-      "I Am Not Alone",
-      "In the Mirror"
+      "Initiation",
+      "The Make-up Room"
     ]
   },
   {
-    "title": "Flirting with Fate",
-    "year": 1938,
+    "title": "The Suicide Squad",
+    "year": 2021,
     "genres": [
+      "Action",
       "Adventure",
-      "Comedy",
-      "Music"
+      "Comedy"
     ],
-    "rating": 5.6,
+    "rating": 7.2,
     "tags": [
       "journey",
-      "light-hearted",
+      "explosions",
+      "fight",
+      "hero",
       "funny",
+      "light-hearted",
       "exploration",
       "discovery",
       "humor",
       "popular"
     ],
     "mood": [
-      "fun",
-      "heroic",
+      "energetic",
       "upbeat",
-      "exciting"
+      "exciting",
+      "intense",
+      "fun",
+      "heroic"
     ],
-    "description": "A adventure film titled 'Flirting with Fate', exploring themes typical of the genre.",
+    "description": "A action film titled 'The Suicide Squad', exploring themes typical of the genre.",
     "similar": [
-      "The Latino List",
-      "Toot Blues"
+      "Considering the Ends",
+      "Hell Hunters"
     ]
   },
   {
-    "title": "Guns & Powder",
-    "year": 2015,
+    "title": "Razbunarea",
+    "year": 1972,
     "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy"
+      "Adventure",
+      "Drama"
     ],
-    "rating": 5.9,
+    "rating": 6.6,
     "tags": [
-      "epic",
-      "explosions",
-      "fight",
-      "magic",
-      "light-hearted",
-      "hero",
-      "funny",
-      "mythical",
-      "humor",
+      "conflict",
+      "journey",
+      "relationships",
+      "exploration",
+      "discovery",
+      "emotional",
       "popular"
     ],
     "mood": [
-      "imaginative",
-      "energetic",
-      "upbeat",
-      "intense",
-      "fun",
-      "whimsical"
+      "serious",
+      "emotional",
+      "heroic",
+      "exciting"
     ],
-    "description": "A action film titled 'Guns & Powder', exploring themes typical of the genre.",
+    "description": "A adventure film titled 'Razbunarea', exploring themes typical of the genre.",
     "similar": [
-      "Beautiful Female Panther: Body Sniper",
-      "Recognize"
+      "Clowns",
+      "Mickey"
     ]
   },
   {
-    "title": "Gramaphone",
-    "year": 2003,
+    "title": "Sail",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 7.7,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A drama film titled 'Sail', exploring themes typical of the genre.",
+    "similar": [
+      "Xala",
+      "El brindis"
+    ]
+  },
+  {
+    "title": "An Average Little Man",
+    "year": 1977,
     "genres": [
       "Comedy",
-      "Drama",
-      "Family"
+      "Crime",
+      "Drama"
     ],
-    "rating": 6.5,
+    "rating": 7.8,
     "tags": [
       "relationships",
       "conflict",
@@ -1647,159 +859,90 @@
       "fun",
       "upbeat"
     ],
-    "description": "A comedy film titled 'Gramaphone', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'An Average Little Man', exploring themes typical of the genre.",
     "similar": [
-      "Raakavedos",
-      "Gangster Cop"
+      "The Most Beautiful Night in the World",
+      "Nan Life Alli"
     ]
   },
   {
-    "title": "Loosely a Killer",
-    "year": 2020,
+    "title": "Der var engang en Vicev\u00e6rt",
+    "year": 1937,
     "genres": [
       "Comedy",
-      "Horror"
+      "Drama",
+      "Family"
     ],
-    "rating": 8.4,
+    "rating": 5.5,
     "tags": [
-      "dark",
-      "scary",
+      "relationships",
+      "conflict",
       "light-hearted",
       "funny",
-      "gore",
+      "emotional",
       "humor",
       "popular"
     ],
     "mood": [
+      "serious",
+      "emotional",
       "fun",
-      "upbeat",
-      "frightening",
-      "chilling"
+      "upbeat"
     ],
-    "description": "A comedy film titled 'Loosely a Killer', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'Der var engang en Vicev\u00e6rt', exploring themes typical of the genre.",
     "similar": [
-      "Slave",
-      "The Dream House"
+      "Crazy, Stupid, Love",
+      "One for the River: The Sava Story"
     ]
   },
   {
-    "title": "Maximum",
-    "year": 2012,
+    "title": "Skiringssal: The Movie",
+    "year": 2016,
     "genres": [
-      "Action",
-      "Crime",
-      "Drama"
+      "Comedy",
+      "Drama",
+      "Reality-TV"
     ],
-    "rating": 4.7,
+    "rating": 8.3,
     "tags": [
       "relationships",
       "conflict",
-      "explosions",
-      "fight",
-      "hero",
+      "light-hearted",
+      "funny",
       "emotional",
+      "humor",
       "popular"
     ],
     "mood": [
       "serious",
       "emotional",
-      "intense",
-      "energetic"
+      "fun",
+      "upbeat"
     ],
-    "description": "A action film titled 'Maximum', exploring themes typical of the genre.",
+    "description": "A comedy film titled 'Skiringssal: The Movie', exploring themes typical of the genre.",
     "similar": [
-      "Tamam mi Devam mi",
-      "Dead Walkers: Rise of the 4th Reich"
+      "Muirhouse",
+      "The Beggar and the Rickshaw Man"
     ]
   },
   {
-    "title": "Pirate's Blood",
-    "year": 2008,
-    "genres": [
-      "Action",
-      "Horror",
-      "Thriller"
-    ],
-    "rating": 4.9,
-    "tags": [
-      "explosions",
-      "fight",
-      "dark",
-      "scary",
-      "hero",
-      "mystery",
-      "tense",
-      "gore",
-      "suspense",
-      "popular"
-    ],
-    "mood": [
-      "frightening",
-      "energetic",
-      "chilling",
-      "dark",
-      "intense",
-      "suspenseful"
-    ],
-    "description": "A action film titled 'Pirate's Blood', exploring themes typical of the genre.",
-    "similar": [
-      "Ste. Anne",
-      "Meu Passado Me Condena: O Filme"
-    ]
-  },
-  {
-    "title": "Sethu",
-    "year": 1999,
+    "title": "Beach Road Chetan",
+    "year": 2019,
     "genres": [
       "Action",
       "Drama",
-      "Romance"
+      "Sci-Fi"
     ],
-    "rating": 8.1,
+    "rating": 9.2,
     "tags": [
       "relationships",
       "conflict",
-      "heartbreak",
-      "explosions",
-      "fight",
-      "hero",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "energetic",
-      "serious",
-      "intense",
-      "romantic",
-      "sentimental",
-      "emotional"
-    ],
-    "description": "A action film titled 'Sethu', exploring themes typical of the genre.",
-    "similar": [
-      "Crocodylus: Mating Season",
-      "The House of the Doves"
-    ]
-  },
-  {
-    "title": "Paragraph 78",
-    "year": 2007,
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "rating": 4.9,
-    "tags": [
       "explosions",
       "fight",
       "hero",
       "space",
       "technology",
-      "mystery",
-      "tense",
-      "suspense",
+      "emotional",
       "future",
       "popular"
     ],
@@ -1807,261 +950,118 @@
       "epic",
       "energetic",
       "thought-provoking",
-      "dark",
-      "intense",
-      "suspenseful"
-    ],
-    "description": "A action film titled 'Paragraph 78', exploring themes typical of the genre.",
-    "similar": [
-      "Unfair: The Movie",
-      "Pocket Listing"
-    ]
-  },
-  {
-    "title": "The Bourne Legacy",
-    "year": 2012,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "rating": 6.6,
-    "tags": [
-      "journey",
-      "explosions",
-      "fight",
-      "hero",
-      "mystery",
-      "exploration",
-      "tense",
-      "discovery",
-      "suspense",
-      "popular"
-    ],
-    "mood": [
-      "energetic",
-      "heroic",
-      "exciting",
-      "dark",
-      "intense",
-      "suspenseful"
-    ],
-    "description": "A action film titled 'The Bourne Legacy', exploring themes typical of the genre.",
-    "similar": [
-      "Master Piece",
-      "K\u00e9tszer kett\u00f6"
-    ]
-  },
-  {
-    "title": "Golam",
-    "year": 2000,
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "rating": 8.6,
-    "tags": [
-      "relationships",
-      "conflict",
-      "explosions",
-      "fight",
-      "hero",
-      "emotional",
-      "popular"
-    ],
-    "mood": [
       "serious",
-      "emotional",
       "intense",
-      "energetic"
+      "emotional"
     ],
-    "description": "A action film titled 'Golam', exploring themes typical of the genre.",
+    "description": "A action film titled 'Beach Road Chetan', exploring themes typical of the genre.",
     "similar": [
-      "Air",
-      "The Bird May Die"
+      "Better Half",
+      "Fairytale of New York"
     ]
   },
   {
-    "title": "Girls und Panzer das Finale: Part II",
-    "year": 2019,
-    "genres": [
-      "Action",
-      "Animation",
-      "Comedy"
-    ],
-    "rating": 7.6,
-    "tags": [
-      "explosions",
-      "fight",
-      "light-hearted",
-      "hero",
-      "funny",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "fun",
-      "intense",
-      "upbeat",
-      "energetic"
-    ],
-    "description": "A action film titled 'Girls und Panzer das Finale: Part II', exploring themes typical of the genre.",
-    "similar": [
-      "October Baby",
-      "Stalemate"
-    ]
-  },
-  {
-    "title": "Live",
-    "year": 2023,
+    "title": "Look at Me",
+    "year": 2018,
     "genres": [
       "Drama",
-      "Thriller"
+      "Family"
     ],
-    "rating": 5.6,
+    "rating": 6.4,
     "tags": [
+      "emotional",
       "relationships",
       "conflict",
-      "mystery",
-      "tense",
-      "suspense",
-      "emotional",
       "popular"
     ],
     "mood": [
       "serious",
-      "emotional",
-      "suspenseful",
-      "dark"
+      "emotional"
     ],
-    "description": "A drama film titled 'Live', exploring themes typical of the genre.",
+    "description": "A drama film titled 'Look at Me', exploring themes typical of the genre.",
     "similar": [
-      "Project Solitude",
-      "Ensitreffit"
+      "Parks",
+      "Knickerbocker Holiday"
     ]
   },
   {
-    "title": "Faces",
-    "year": 2014,
+    "title": "The Mitchell Tapes",
+    "year": 2010,
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
-    "rating": 5.8,
+    "rating": 2.9,
     "tags": [
       "dark",
-      "scary",
-      "mystery",
-      "tense",
       "gore",
-      "suspense",
+      "scary",
       "popular"
     ],
     "mood": [
       "frightening",
-      "suspenseful",
-      "chilling",
-      "dark"
+      "chilling"
     ],
-    "description": "A horror film titled 'Faces', exploring themes typical of the genre.",
+    "description": "A horror film titled 'The Mitchell Tapes', exploring themes typical of the genre.",
     "similar": [
-      "Joe Palooka in the Counterpunch",
-      "The Day of the Bricklayers"
+      "Bird in a Cage",
+      "Lost Padre Mine"
     ]
   },
   {
-    "title": "All Roads to Pearla",
-    "year": 2019,
+    "title": "The Big Gag",
+    "year": 1987,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 3.8,
+    "tags": [
+      "humor",
+      "light-hearted",
+      "funny",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'The Big Gag', exploring themes typical of the genre.",
+    "similar": [
+      "Subway",
+      "In Balanchine's Classroom"
+    ]
+  },
+  {
+    "title": "Fingers at the Window",
+    "year": 1942,
     "genres": [
       "Crime",
       "Drama",
-      "Thriller"
+      "Film-Noir"
     ],
-    "rating": 4.9,
+    "rating": 6.3,
     "tags": [
-      "relationships",
-      "conflict",
-      "mystery",
-      "tense",
-      "suspense",
       "emotional",
-      "popular"
+      "relationships",
+      "conflict"
     ],
     "mood": [
       "serious",
-      "emotional",
-      "suspenseful",
-      "dark"
+      "emotional"
     ],
-    "description": "A crime film titled 'All Roads to Pearla', exploring themes typical of the genre.",
+    "description": "A crime film titled 'Fingers at the Window', exploring themes typical of the genre.",
     "similar": [
-      "Catatan Akhir Kuliah",
-      "The Wall-Passer"
+      "Boy with Blue",
+      "Open All Night"
     ]
   },
   {
-    "title": "Revenge of the Gweilo",
-    "year": 2020,
+    "title": "Mang nu jue dou gui jian chou",
+    "year": 1970,
     "genres": [
       "Action",
-      "Thriller"
+      "Adventure"
     ],
-    "rating": 4.4,
-    "tags": [
-      "explosions",
-      "fight",
-      "hero",
-      "mystery",
-      "tense",
-      "suspense",
-      "popular"
-    ],
-    "mood": [
-      "suspenseful",
-      "dark",
-      "intense",
-      "energetic"
-    ],
-    "description": "A action film titled 'Revenge of the Gweilo', exploring themes typical of the genre.",
-    "similar": [
-      "Detective Knight: Redemption",
-      "Black Knight Satellite: The Untold Story"
-    ]
-  },
-  {
-    "title": "Raw Nerve",
-    "year": 1999,
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "rating": 4.7,
-    "tags": [
-      "suspense",
-      "mystery",
-      "tense",
-      "popular"
-    ],
-    "mood": [
-      "suspenseful",
-      "dark"
-    ],
-    "description": "A crime film titled 'Raw Nerve', exploring themes typical of the genre.",
-    "similar": [
-      "The Code of Cain",
-      "Kartal Pendik Gittik Geldik"
-    ]
-  },
-  {
-    "title": "Power Elite",
-    "year": 2002,
-    "genres": [
-      "Action",
-      "Adventure",
-      "War"
-    ],
-    "rating": 3.7,
+    "rating": 5.8,
     "tags": [
       "journey",
       "explosions",
@@ -2077,212 +1077,42 @@
       "energetic",
       "heroic"
     ],
-    "description": "A action film titled 'Power Elite', exploring themes typical of the genre.",
+    "description": "A action film titled 'Mang nu jue dou gui jian chou', exploring themes typical of the genre.",
     "similar": [
-      "Rathrimazha",
-      "Freezer Burn"
+      "Nga mesi i err\u00ebsir\u00ebs",
+      "Ghost Aliens"
     ]
   },
   {
-    "title": "Because of Him",
-    "year": 1946,
+    "title": "Fine Line",
+    "year": 2010,
     "genres": [
-      "Comedy",
-      "Musical",
-      "Mystery"
-    ],
-    "rating": 6.6,
-    "tags": [
-      "humor",
-      "light-hearted",
-      "funny",
-      "popular"
-    ],
-    "mood": [
-      "fun",
-      "upbeat"
-    ],
-    "description": "A comedy film titled 'Because of Him', exploring themes typical of the genre.",
-    "similar": [
-      "Untold: The Murder of Air McNair",
-      "The Year of the Yahoo!"
-    ]
-  },
-  {
-    "title": "Terrified",
-    "year": 1995,
-    "genres": [
-      "Horror",
-      "Mystery",
       "Thriller"
     ],
-    "rating": 3.5,
+    "rating": 7.7,
     "tags": [
-      "dark",
-      "scary",
+      "suspense",
       "mystery",
       "tense",
-      "gore",
-      "suspense",
       "popular"
     ],
     "mood": [
-      "frightening",
       "suspenseful",
-      "chilling",
       "dark"
     ],
-    "description": "A horror film titled 'Terrified', exploring themes typical of the genre.",
+    "description": "A thriller film titled 'Fine Line', exploring themes typical of the genre.",
     "similar": [
-      "Por mis bigotes",
-      "Matinya Seorang Patriot"
+      "Elixir",
+      "La Mujer de Iv\u00e1n"
     ]
   },
   {
-    "title": "Springtime in the Rockies",
-    "year": 1937,
+    "title": "Ghost Story: Crying in the Night Lantern",
+    "year": 1962,
     "genres": [
-      "Drama",
-      "Music",
-      "Western"
-    ],
-    "rating": 5.6,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A drama film titled 'Springtime in the Rockies', exploring themes typical of the genre.",
-    "similar": [
-      "Utthamma Villian C/0 Mahadevpuram",
-      "Haci Bektas Veli"
-    ]
-  },
-  {
-    "title": "ZillaFoot",
-    "year": 2019,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "rating": 2.6,
-    "tags": [
-      "journey",
-      "epic",
-      "explosions",
-      "fight",
-      "magic",
-      "hero",
-      "exploration",
-      "discovery",
-      "mythical",
-      "popular"
-    ],
-    "mood": [
-      "imaginative",
-      "energetic",
-      "exciting",
-      "intense",
-      "heroic",
-      "whimsical"
-    ],
-    "description": "A action film titled 'ZillaFoot', exploring themes typical of the genre.",
-    "similar": [
-      "The Tower",
-      "Ms. Apocalypse"
-    ]
-  },
-  {
-    "title": "Andrey Iskanov's Visions of Suffering (Final Director's Cut)",
-    "year": 2016,
-    "genres": [
-      "Fantasy",
       "Horror"
     ],
-    "rating": 6.1,
-    "tags": [
-      "epic",
-      "magic",
-      "scary",
-      "dark",
-      "gore",
-      "mythical",
-      "popular"
-    ],
-    "mood": [
-      "frightening",
-      "whimsical",
-      "imaginative",
-      "chilling"
-    ],
-    "description": "A fantasy film titled 'Andrey Iskanov's Visions of Suffering (Final Director's Cut)', exploring themes typical of the genre.",
-    "similar": [
-      "Entrei de Gaiato",
-      "Le bonheur des autres"
-    ]
-  },
-  {
-    "title": "Athlete A",
-    "year": 2020,
-    "genres": [
-      "Crime",
-      "Documentary",
-      "Sport"
-    ],
-    "rating": 7.6,
-    "tags": [
-      "popular"
-    ],
-    "mood": [],
-    "description": "A crime film titled 'Athlete A', exploring themes typical of the genre.",
-    "similar": [
-      "Wenn der junge Wein bl\u00fcht",
-      "Arkadas"
-    ]
-  },
-  {
-    "title": "Close Calls",
-    "year": 2017,
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "rating": 4.5,
-    "tags": [
-      "dark",
-      "scary",
-      "mystery",
-      "tense",
-      "gore",
-      "suspense",
-      "popular"
-    ],
-    "mood": [
-      "frightening",
-      "suspenseful",
-      "chilling",
-      "dark"
-    ],
-    "description": "A horror film titled 'Close Calls', exploring themes typical of the genre.",
-    "similar": [
-      "Kaptan Pengu ve Arkadaslari 3: Buz Mandasi Efsanesi",
-      "Unsere Pauker gehen in die Luft"
-    ]
-  },
-  {
-    "title": "The Closet",
-    "year": 2020,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "rating": 5.7,
+    "rating": 5.0,
     "tags": [
       "dark",
       "gore",
@@ -2292,19 +1122,322 @@
       "frightening",
       "chilling"
     ],
-    "description": "A horror film titled 'The Closet', exploring themes typical of the genre.",
+    "description": "A horror film titled 'Ghost Story: Crying in the Night Lantern', exploring themes typical of the genre.",
     "similar": [
-      "Dementamania",
-      "Shutter One"
+      "Deadly Gamble",
+      "#Horror"
     ]
   },
   {
-    "title": "Cloud",
+    "title": "Apithanoi, alloiotikoi ki oraioi...",
+    "year": 1982,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 3.6,
+    "tags": [
+      "humor",
+      "light-hearted",
+      "funny",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Apithanoi, alloiotikoi ki oraioi...', exploring themes typical of the genre.",
+    "similar": [
+      "Glamour",
+      "Vergiss nie, dass ich Dich Liebe"
+    ]
+  },
+  {
+    "title": "Historiani dhe Kameleonet",
+    "year": 1989,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 8.4,
+    "tags": [
+      "humor",
+      "light-hearted",
+      "funny",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Historiani dhe Kameleonet', exploring themes typical of the genre.",
+    "similar": [
+      "Someone You Love: The HPV Epidemic",
+      "Kad su cvetale tikve"
+    ]
+  },
+  {
+    "title": "People of the Seal",
+    "year": 2009,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "rating": 9.2,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A documentary film titled 'People of the Seal', exploring themes typical of the genre.",
+    "similar": [
+      "Black Trash",
+      "La vida de Pedro Infante"
+    ]
+  },
+  {
+    "title": "Morrison",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "rating": 5.2,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A drama film titled 'Morrison', exploring themes typical of the genre.",
+    "similar": [
+      "African Cats",
+      "Kamuki"
+    ]
+  },
+  {
+    "title": "Minnesota v. We the People",
     "year": 2024,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "News"
+    ],
+    "rating": 9.2,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A crime film titled 'Minnesota v. We the People', exploring themes typical of the genre.",
+    "similar": [
+      "Paidageer",
+      "Fury of the Fist and the Golden Fleece"
+    ]
+  },
+  {
+    "title": "South of Hope Street",
+    "year": 2024,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "rating": 6.1,
+    "tags": [
+      "technology",
+      "future",
+      "space",
+      "popular"
+    ],
+    "mood": [
+      "thought-provoking",
+      "epic"
+    ],
+    "description": "A sci-fi film titled 'South of Hope Street', exploring themes typical of the genre.",
+    "similar": [
+      "Mountain Song",
+      "Tanda Putera"
+    ]
+  },
+  {
+    "title": "Magnificus",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "rating": 9.4,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A biography film titled 'Magnificus', exploring themes typical of the genre.",
+    "similar": [
+      "Dirty Singles",
+      "Nigerian Prince"
+    ]
+  },
+  {
+    "title": "Espion, l\u00e8ve-toi",
+    "year": 1982,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.6,
+    "tags": [
+      "relationships",
+      "conflict",
+      "mystery",
+      "tense",
+      "suspense",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "suspenseful",
+      "dark"
+    ],
+    "description": "A crime film titled 'Espion, l\u00e8ve-toi', exploring themes typical of the genre.",
+    "similar": [
+      "Gas! -Or- It Became Necessary to Destroy the World in Order to Save It.",
+      "Step"
+    ]
+  },
+  {
+    "title": "Homeland Nation: Mescalero Apache",
+    "year": 2010,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 8.5,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A documentary film titled 'Homeland Nation: Mescalero Apache', exploring themes typical of the genre.",
+    "similar": [
+      "Pocket Hercules: Naim S\u00fcleymanoglu",
+      "Mr. Anatol Seeks a Million"
+    ]
+  },
+  {
+    "title": "The Messengers: The Witness Trilogy",
+    "year": 2017,
+    "genres": [
+      "Animation",
+      "Drama",
+      "History"
+    ],
+    "rating": 8.2,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A animation film titled 'The Messengers: The Witness Trilogy', exploring themes typical of the genre.",
+    "similar": [
+      "Aranmanai 3",
+      "Foolish Game"
+    ]
+  },
+  {
+    "title": "Trust Fund",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "rating": 4.8,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A drama film titled 'Trust Fund', exploring themes typical of the genre.",
+    "similar": [
+      "Star Raiders: The Adventures of Saber Raine",
+      "Proceedings"
+    ]
+  },
+  {
+    "title": "Harry & Meghan: The Price of Freedom",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 1.7,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A documentary film titled 'Harry & Meghan: The Price of Freedom', exploring themes typical of the genre.",
+    "similar": [
+      "Gowli",
+      "Balbeero Bhabi"
+    ]
+  },
+  {
+    "title": "Journey to the Land of the Traveller",
+    "year": 1993,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 6.5,
+    "tags": [],
+    "mood": [],
+    "description": "A documentary film titled 'Journey to the Land of the Traveller', exploring themes typical of the genre.",
+    "similar": []
+  },
+  {
+    "title": "The Swordsman",
+    "year": 2020,
     "genres": [
       "Action",
       "Drama",
-      "Horror"
+      "History"
+    ],
+    "rating": 6.8,
+    "tags": [
+      "relationships",
+      "conflict",
+      "explosions",
+      "fight",
+      "hero",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'The Swordsman', exploring themes typical of the genre.",
+    "similar": [
+      "Insincere Twins",
+      "Superagentes y titanes"
+    ]
+  },
+  {
+    "title": "Vechtmeisje",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
     ],
     "rating": 6.3,
     "tags": [
@@ -2313,88 +1446,29 @@
       "explosions",
       "fight",
       "hero",
-      "scary",
-      "dark",
-      "gore",
       "emotional",
       "popular"
     ],
     "mood": [
-      "frightening",
-      "energetic",
-      "chilling",
       "serious",
+      "emotional",
       "intense",
-      "emotional"
+      "energetic"
     ],
-    "description": "A action film titled 'Cloud', exploring themes typical of the genre.",
+    "description": "A action film titled 'Vechtmeisje', exploring themes typical of the genre.",
     "similar": [
-      "Fl\u00e1m",
-      "Come Early Morning"
+      "It Is What It Is",
+      "Centipede Horror"
     ]
   },
   {
-    "title": "The Jekyll and Hyde Portfolio",
-    "year": 1971,
+    "title": "Leopard Do Not Bite",
+    "year": 2015,
     "genres": [
-      "Horror",
+      "Drama",
       "Mystery"
     ],
-    "rating": 4.0,
-    "tags": [
-      "dark",
-      "gore",
-      "scary",
-      "popular"
-    ],
-    "mood": [
-      "frightening",
-      "chilling"
-    ],
-    "description": "A horror film titled 'The Jekyll and Hyde Portfolio', exploring themes typical of the genre.",
-    "similar": [
-      "Death on the Nile",
-      "It Wasn't for Love"
-    ]
-  },
-  {
-    "title": "9 dney i odno utro",
-    "year": 2014,
-    "genres": [
-      "Drama",
-      "Family",
-      "Romance"
-    ],
-    "rating": 5.4,
-    "tags": [
-      "relationships",
-      "conflict",
-      "heartbreak",
-      "passion",
-      "emotional",
-      "love",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "romantic",
-      "sentimental"
-    ],
-    "description": "A drama film titled '9 dney i odno utro', exploring themes typical of the genre.",
-    "similar": [
-      "Ben's Biography",
-      "Tarnished"
-    ]
-  },
-  {
-    "title": "That's Life",
-    "year": 1951,
-    "genres": [
-      "Drama",
-      "Family"
-    ],
-    "rating": 7.3,
+    "rating": 8.0,
     "tags": [
       "emotional",
       "relationships",
@@ -2405,296 +1479,33 @@
       "serious",
       "emotional"
     ],
-    "description": "A drama film titled 'That's Life', exploring themes typical of the genre.",
+    "description": "A drama film titled 'Leopard Do Not Bite', exploring themes typical of the genre.",
     "similar": [
-      "Nine Chronicles for a Screaming Heart",
-      "Genghis Blues"
+      "Day of the Idiots",
+      "Land of Milk & Honey"
     ]
   },
   {
-    "title": "Satyaprem Ki Katha",
-    "year": 2023,
+    "title": "Country Cuties: Barnyard Bash",
+    "year": 1990,
     "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
-    ],
-    "rating": 6.7,
-    "tags": [
-      "relationships",
-      "conflict",
-      "light-hearted",
-      "funny",
-      "emotional",
-      "humor",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional",
-      "fun",
-      "upbeat"
-    ],
-    "description": "A comedy film titled 'Satyaprem Ki Katha', exploring themes typical of the genre.",
-    "similar": [
-      "Inosente",
-      "Lee Rock"
-    ]
-  },
-  {
-    "title": "The Basque Swastika",
-    "year": 2013,
-    "genres": [
-      "Documentary",
-      "History"
-    ],
-    "rating": 6.6,
-    "tags": [
-      "popular"
-    ],
-    "mood": [],
-    "description": "A documentary film titled 'The Basque Swastika', exploring themes typical of the genre.",
-    "similar": [
-      "Fixer: The Taking of Ajmal Naqshbandi",
-      "Santa Claus"
-    ]
-  },
-  {
-    "title": "Planet B-Boy",
-    "year": 2007,
-    "genres": [
-      "Documentary",
-      "History",
-      "Music"
-    ],
-    "rating": 7.6,
-    "tags": [
-      "popular"
-    ],
-    "mood": [],
-    "description": "A documentary film titled 'Planet B-Boy', exploring themes typical of the genre.",
-    "similar": [
-      "Mukhosh",
-      "Cuban Pete"
-    ]
-  },
-  {
-    "title": "Attla",
-    "year": 2019,
-    "genres": [
-      "Biography",
-      "Documentary",
-      "Family"
-    ],
-    "rating": 7.5,
-    "tags": [
-      "popular"
-    ],
-    "mood": [],
-    "description": "A biography film titled 'Attla', exploring themes typical of the genre.",
-    "similar": [
-      "Twenty Cigarettes",
-      "The War Dogs"
-    ]
-  },
-  {
-    "title": "Ulfs store finale",
-    "year": 2021,
-    "genres": [
-      "Biography",
-      "Documentary"
-    ],
-    "rating": 8.6,
-    "tags": [],
-    "mood": [],
-    "description": "A biography film titled 'Ulfs store finale', exploring themes typical of the genre.",
-    "similar": []
-  },
-  {
-    "title": "Sutis Interfer\u00eancias",
-    "year": 2016,
-    "genres": [
-      "Documentary",
-      "Music"
-    ],
-    "rating": 6.8,
-    "tags": [],
-    "mood": [],
-    "description": "A documentary film titled 'Sutis Interfer\u00eancias', exploring themes typical of the genre.",
-    "similar": []
-  },
-  {
-    "title": "Kollwitz. Ein Leben in Leidenschaft",
-    "year": 2017,
-    "genres": [
-      "Biography",
-      "Documentary",
-      "History"
-    ],
-    "rating": 7.5,
-    "tags": [],
-    "mood": [],
-    "description": "A biography film titled 'Kollwitz. Ein Leben in Leidenschaft', exploring themes typical of the genre.",
-    "similar": []
-  },
-  {
-    "title": "Imphal & Kohima: Britain's Greatest Battle",
-    "year": 2018,
-    "genres": [
-      "Documentary"
-    ],
-    "rating": 8.7,
-    "tags": [
-      "popular"
-    ],
-    "mood": [],
-    "description": "A documentary film titled 'Imphal & Kohima: Britain's Greatest Battle', exploring themes typical of the genre.",
-    "similar": [
-      "Atlanta",
-      "The Kiddie Tomb"
-    ]
-  },
-  {
-    "title": "Jennifer Aniston: More Than Friends",
-    "year": 2020,
-    "genres": [
-      "Biography",
-      "Documentary"
-    ],
-    "rating": 4.8,
-    "tags": [],
-    "mood": [],
-    "description": "A biography film titled 'Jennifer Aniston: More Than Friends', exploring themes typical of the genre.",
-    "similar": []
-  },
-  {
-    "title": "Why Should the Devil Have All the Good Music?",
-    "year": 2004,
-    "genres": [
-      "Documentary",
-      "Music"
-    ],
-    "rating": 7.2,
-    "tags": [
-      "popular"
-    ],
-    "mood": [],
-    "description": "A documentary film titled 'Why Should the Devil Have All the Good Music?', exploring themes typical of the genre.",
-    "similar": [
-      "Der blinde Fleck",
-      "Lua-de-Mel e Amendoim"
-    ]
-  },
-  {
-    "title": "The Man Is Armed",
-    "year": 1956,
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
+      "Game-Show"
     ],
     "rating": 5.9,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict",
-      "popular"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A crime film titled 'The Man Is Armed', exploring themes typical of the genre.",
-    "similar": [
-      "Beyond",
-      "The Waterboyz"
-    ]
+    "tags": [],
+    "mood": [],
+    "description": "A game-show film titled 'Country Cuties: Barnyard Bash', exploring themes typical of the genre.",
+    "similar": []
   },
   {
-    "title": "The Young Rounders",
-    "year": 1971,
+    "title": "Still",
+    "year": 2018,
     "genres": [
       "Drama",
-      "Western"
+      "Fantasy",
+      "Mystery"
     ],
-    "rating": 7.5,
-    "tags": [
-      "emotional",
-      "relationships",
-      "conflict"
-    ],
-    "mood": [
-      "serious",
-      "emotional"
-    ],
-    "description": "A drama film titled 'The Young Rounders', exploring themes typical of the genre.",
-    "similar": [
-      "Shadows of Paris",
-      "God's Country and the Man"
-    ]
-  },
-  {
-    "title": "Mutiny in Outer Space",
-    "year": 1964,
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
-    "rating": 4.9,
-    "tags": [
-      "dark",
-      "scary",
-      "space",
-      "technology",
-      "gore",
-      "future",
-      "popular"
-    ],
-    "mood": [
-      "epic",
-      "thought-provoking",
-      "frightening",
-      "chilling"
-    ],
-    "description": "A horror film titled 'Mutiny in Outer Space', exploring themes typical of the genre.",
-    "similar": [
-      "TMNT",
-      "Swindlers"
-    ]
-  },
-  {
-    "title": "Bubble Gum",
-    "year": 1983,
-    "genres": [
-      "Adult",
-      "Comedy"
-    ],
-    "rating": 5.7,
-    "tags": [
-      "humor",
-      "light-hearted",
-      "funny",
-      "popular"
-    ],
-    "mood": [
-      "fun",
-      "upbeat"
-    ],
-    "description": "A adult film titled 'Bubble Gum', exploring themes typical of the genre.",
-    "similar": [
-      "She's Dangerous",
-      "Bei der blonden Kathrein"
-    ]
-  },
-  {
-    "title": "Empress Chung",
-    "year": 2005,
-    "genres": [
-      "Animation",
-      "Drama",
-      "Fantasy"
-    ],
-    "rating": 7.1,
+    "rating": 5.2,
     "tags": [
       "relationships",
       "conflict",
@@ -2710,58 +1521,231 @@
       "whimsical",
       "imaginative"
     ],
-    "description": "A animation film titled 'Empress Chung', exploring themes typical of the genre.",
+    "description": "A drama film titled 'Still', exploring themes typical of the genre.",
     "similar": [
-      "Honky Tonk",
-      "El silencio"
+      "A Brooklyn State of Mind",
+      "Jathagadu"
     ]
   },
   {
-    "title": "Tomato Republic",
-    "year": 2014,
+    "title": "For Rent",
+    "year": 2021,
     "genres": [
-      "Documentary",
-      "News",
-      "Reality-TV"
+      "Comedy",
+      "Drama"
     ],
-    "rating": 8.9,
+    "rating": 6.1,
     "tags": [
+      "relationships",
+      "conflict",
+      "light-hearted",
+      "funny",
+      "emotional",
+      "humor",
       "popular"
     ],
-    "mood": [],
-    "description": "A documentary film titled 'Tomato Republic', exploring themes typical of the genre.",
+    "mood": [
+      "serious",
+      "emotional",
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'For Rent', exploring themes typical of the genre.",
     "similar": [
-      "Soldiers of Fortune",
-      "Mae Bia"
+      "The Greatest Love of All",
+      "Night of the Sinner"
     ]
   },
   {
-    "title": "The Economics of Happiness",
+    "title": "Curly Sue",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "rating": 5.9,
+    "tags": [
+      "relationships",
+      "conflict",
+      "light-hearted",
+      "funny",
+      "emotional",
+      "humor",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Curly Sue', exploring themes typical of the genre.",
+    "similar": [
+      "As Dream and Shadow...",
+      "Feminin"
+    ]
+  },
+  {
+    "title": "Jabidah Massacre",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "rating": 8.2,
+    "tags": [
+      "relationships",
+      "conflict",
+      "explosions",
+      "fight",
+      "hero",
+      "emotional"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'Jabidah Massacre', exploring themes typical of the genre.",
+    "similar": [
+      "Kempirve",
+      "Bhanga Gora"
+    ]
+  },
+  {
+    "title": "Taras Bulba",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "rating": 5.7,
+    "tags": [
+      "relationships",
+      "conflict",
+      "explosions",
+      "fight",
+      "hero",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'Taras Bulba', exploring themes typical of the genre.",
+    "similar": [
+      "Chronopolis",
+      "Yagy\u00fb bugeich\u00f4"
+    ]
+  },
+  {
+    "title": "Mission: Impossible - Ghost Protocol",
     "year": 2011,
     "genres": [
-      "Documentary",
-      "News"
+      "Action",
+      "Adventure",
+      "Thriller"
     ],
-    "rating": 7.3,
+    "rating": 7.4,
     "tags": [
+      "journey",
+      "explosions",
+      "fight",
+      "hero",
+      "mystery",
+      "exploration",
+      "tense",
+      "discovery",
+      "suspense",
       "popular"
     ],
-    "mood": [],
-    "description": "A documentary film titled 'The Economics of Happiness', exploring themes typical of the genre.",
+    "mood": [
+      "energetic",
+      "heroic",
+      "exciting",
+      "dark",
+      "intense",
+      "suspenseful"
+    ],
+    "description": "A action film titled 'Mission: Impossible - Ghost Protocol', exploring themes typical of the genre.",
     "similar": [
-      "Hong Kong Trilogy: Preschooled Preoccupied Preposterous",
-      "A Kidnap"
+      "An Affair to Die For",
+      "Muhammad Ali's Greatest Fight"
     ]
   },
   {
-    "title": "Vegas Vikings",
-    "year": 2014,
+    "title": "Clear",
+    "year": 2007,
     "genres": [
-      "Documentary",
       "Drama",
-      "Game-Show"
+      "Sci-Fi"
     ],
-    "rating": 8.6,
+    "rating": 4.3,
+    "tags": [
+      "relationships",
+      "conflict",
+      "space",
+      "technology",
+      "emotional",
+      "future",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "epic",
+      "thought-provoking"
+    ],
+    "description": "A drama film titled 'Clear', exploring themes typical of the genre.",
+    "similar": [
+      "32 dicembre",
+      "Matinee"
+    ]
+  },
+  {
+    "title": "De profundis",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "rating": 6.4,
+    "tags": [
+      "journey",
+      "epic",
+      "magic",
+      "exploration",
+      "discovery",
+      "mythical"
+    ],
+    "mood": [
+      "whimsical",
+      "heroic",
+      "imaginative",
+      "exciting"
+    ],
+    "description": "A adventure film titled 'De profundis', exploring themes typical of the genre.",
+    "similar": [
+      "Unsearchable",
+      "M'Lord of the White Road"
+    ]
+  },
+  {
+    "title": "Noem My Skollie: Call Me Thief",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.5,
     "tags": [
       "emotional",
       "relationships",
@@ -2772,22 +1756,827 @@
       "serious",
       "emotional"
     ],
-    "description": "A documentary film titled 'Vegas Vikings', exploring themes typical of the genre.",
+    "description": "A crime film titled 'Noem My Skollie: Call Me Thief', exploring themes typical of the genre.",
     "similar": [
-      "Scam Likely",
-      "High-School Outcasts"
+      "Tough Girls",
+      "Salto"
     ]
   },
   {
-    "title": "Entertainment Tomorrow",
-    "year": 2023,
+    "title": "Harder They Fall",
+    "year": 2005,
     "genres": [
-      "Talk-Show"
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "rating": 2.9,
+    "tags": [
+      "relationships",
+      "conflict",
+      "explosions",
+      "fight",
+      "hero",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'Harder They Fall', exploring themes typical of the genre.",
+    "similar": [
+      "Knightly Advice",
+      "Matriarch"
+    ]
+  },
+  {
+    "title": "Gros c\u00e2lin",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "rating": 6.3,
+    "tags": [
+      "humor",
+      "light-hearted",
+      "funny",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Gros c\u00e2lin', exploring themes typical of the genre.",
+    "similar": [
+      "Liberty: Mother of Exiles",
+      "My Girlfriend Is the Revolution"
+    ]
+  },
+  {
+    "title": "Lupin's Daughter: The Movie",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 5.3,
+    "tags": [
+      "explosions",
+      "fight",
+      "light-hearted",
+      "hero",
+      "funny",
+      "humor",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "intense",
+      "upbeat",
+      "energetic"
+    ],
+    "description": "A action film titled 'Lupin's Daughter: The Movie', exploring themes typical of the genre.",
+    "similar": [
+      "Totuus on armoton",
+      "Iskrenne Vash"
+    ]
+  },
+  {
+    "title": "Tot oder Lebendig",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Horror",
+      "Western"
+    ],
+    "rating": 3.4,
+    "tags": [
+      "explosions",
+      "fight",
+      "dark",
+      "scary",
+      "hero",
+      "gore"
+    ],
+    "mood": [
+      "frightening",
+      "intense",
+      "chilling",
+      "energetic"
+    ],
+    "description": "A action film titled 'Tot oder Lebendig', exploring themes typical of the genre.",
+    "similar": [
+      "Jurassic Thunder",
+      "Neon Lights"
+    ]
+  },
+  {
+    "title": "Bell Chamber",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 3.1,
+    "tags": [
+      "dark",
+      "scary",
+      "mystery",
+      "tense",
+      "gore",
+      "suspense",
+      "popular"
+    ],
+    "mood": [
+      "frightening",
+      "suspenseful",
+      "chilling",
+      "dark"
+    ],
+    "description": "A horror film titled 'Bell Chamber', exploring themes typical of the genre.",
+    "similar": [
+      "I diki sou moira me sernei",
+      "Chora Chittha Chora"
+    ]
+  },
+  {
+    "title": "Ice Age",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.1,
+    "tags": [
+      "relationships",
+      "conflict",
+      "mystery",
+      "tense",
+      "suspense",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "suspenseful",
+      "dark"
+    ],
+    "description": "A crime film titled 'Ice Age', exploring themes typical of the genre.",
+    "similar": [
+      "The 'Burbs",
+      "Lakshmi Raave Maa Intiki"
+    ]
+  },
+  {
+    "title": "Calac\u00e1n",
+    "year": 1987,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 5.7,
+    "tags": [
+      "relationships",
+      "conflict",
+      "epic",
+      "magic",
+      "emotional",
+      "mythical",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "whimsical",
+      "imaginative"
+    ],
+    "description": "A animation film titled 'Calac\u00e1n', exploring themes typical of the genre.",
+    "similar": [
+      "SoulHood",
+      "Patrimonio"
+    ]
+  },
+  {
+    "title": "13 Midnights",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "rating": 4.4,
+    "tags": [
+      "dark",
+      "gore",
+      "scary",
+      "popular"
+    ],
+    "mood": [
+      "frightening",
+      "chilling"
+    ],
+    "description": "A horror film titled '13 Midnights', exploring themes typical of the genre.",
+    "similar": [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "Abhimaan"
+    ]
+  },
+  {
+    "title": "V Parizh!",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 7.3,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A crime film titled 'V Parizh!', exploring themes typical of the genre.",
+    "similar": [
+      "Baba Baby O",
+      "Sigge Nilsson och jag"
+    ]
+  },
+  {
+    "title": "Aci yol",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 5.0,
+    "tags": [
+      "relationships",
+      "conflict",
+      "heartbreak",
+      "passion",
+      "emotional",
+      "love"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "romantic",
+      "sentimental"
+    ],
+    "description": "A drama film titled 'Aci yol', exploring themes typical of the genre.",
+    "similar": [
+      "One Night: Choice of Evil",
+      "Hey Ram Hamne Gandhi Ko maar Diya"
+    ]
+  },
+  {
+    "title": "The Elusive Corporal",
+    "year": 1962,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "rating": 7.0,
+    "tags": [
+      "relationships",
+      "conflict",
+      "light-hearted",
+      "funny",
+      "emotional",
+      "humor"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'The Elusive Corporal', exploring themes typical of the genre.",
+    "similar": [
+      "Coin Locker Girl",
+      "Pet Shop Days"
+    ]
+  },
+  {
+    "title": "Sidney",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Documentary"
     ],
     "rating": 7.8,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A biography film titled 'Sidney', exploring themes typical of the genre.",
+    "similar": [
+      "Love Has No Language",
+      "Backstreet Dreams"
+    ]
+  },
+  {
+    "title": "Blue Swallow",
+    "year": 2005,
+    "genres": [
+      "Romance"
+    ],
+    "rating": 6.9,
+    "tags": [
+      "heartbreak",
+      "passion",
+      "love",
+      "popular"
+    ],
+    "mood": [
+      "sentimental",
+      "romantic"
+    ],
+    "description": "A romance film titled 'Blue Swallow', exploring themes typical of the genre.",
+    "similar": [
+      "Haunted Summer",
+      "The Storage"
+    ]
+  },
+  {
+    "title": "Modelar",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 6.1,
+    "tags": [
+      "relationships",
+      "conflict",
+      "mystery",
+      "tense",
+      "suspense",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "suspenseful",
+      "dark"
+    ],
+    "description": "A crime film titled 'Modelar', exploring themes typical of the genre.",
+    "similar": [
+      "Sex, Party & Lies",
+      "The Perfect Christmas"
+    ]
+  },
+  {
+    "title": "El Jockey",
+    "year": 2024,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "rating": 6.4,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A crime film titled 'El Jockey', exploring themes typical of the genre.",
+    "similar": [
+      "S9 - David Grachat",
+      "Tapioca"
+    ]
+  },
+  {
+    "title": "Hubad na multo",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 7.6,
+    "tags": [
+      "relationships",
+      "conflict",
+      "scary",
+      "dark",
+      "mystery",
+      "tense",
+      "gore",
+      "suspense",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "frightening",
+      "chilling",
+      "dark",
+      "serious",
+      "emotional",
+      "suspenseful"
+    ],
+    "description": "A drama film titled 'Hubad na multo', exploring themes typical of the genre.",
+    "similar": [
+      "Soul of Chiba",
+      "Yaar Belly"
+    ]
+  },
+  {
+    "title": "Devlerin \u00d6l\u00fcm\u00fc",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 6.5,
+    "tags": [
+      "relationships",
+      "conflict",
+      "heartbreak",
+      "passion",
+      "emotional",
+      "love",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "romantic",
+      "sentimental"
+    ],
+    "description": "A drama film titled 'Devlerin \u00d6l\u00fcm\u00fc', exploring themes typical of the genre.",
+    "similar": [
+      "Chumbo Quente",
+      "Adolf Armstarke"
+    ]
+  },
+  {
+    "title": "El portero",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "rating": 5.8,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A drama film titled 'El portero', exploring themes typical of the genre.",
+    "similar": [
+      "True Law",
+      "A Summer's Tale"
+    ]
+  },
+  {
+    "title": "Melody Beyond Love",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 6.2,
+    "tags": [
+      "relationships",
+      "conflict",
+      "heartbreak",
+      "passion",
+      "emotional",
+      "love",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "romantic",
+      "sentimental"
+    ],
+    "description": "A drama film titled 'Melody Beyond Love', exploring themes typical of the genre.",
+    "similar": [
+      "Gallowwalkers",
+      "Black Man White Skin"
+    ]
+  },
+  {
+    "title": "Men in Suits",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": 4.3,
+    "tags": [
+      "journey",
+      "explosions",
+      "fight",
+      "hero",
+      "funny",
+      "light-hearted",
+      "exploration",
+      "discovery",
+      "humor",
+      "popular"
+    ],
+    "mood": [
+      "energetic",
+      "upbeat",
+      "exciting",
+      "intense",
+      "fun",
+      "heroic"
+    ],
+    "description": "A action film titled 'Men in Suits', exploring themes typical of the genre.",
+    "similar": [
+      "My Transparent Life",
+      "Village lo Vinayakudu"
+    ]
+  },
+  {
+    "title": "Schultze Gets the Blues",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "rating": 7.0,
+    "tags": [
+      "relationships",
+      "conflict",
+      "light-hearted",
+      "funny",
+      "emotional",
+      "humor",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Schultze Gets the Blues', exploring themes typical of the genre.",
+    "similar": [
+      "Ein wenig sterben",
+      "The Bronx Bull"
+    ]
+  },
+  {
+    "title": "No Man of Her Own",
+    "year": 1950,
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Romance"
+    ],
+    "rating": 7.4,
+    "tags": [
+      "relationships",
+      "conflict",
+      "heartbreak",
+      "passion",
+      "emotional",
+      "love"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "romantic",
+      "sentimental"
+    ],
+    "description": "A drama film titled 'No Man of Her Own', exploring themes typical of the genre.",
+    "similar": [
+      "Witness in the War Zone",
+      "Kiss mo 'ko"
+    ]
+  },
+  {
+    "title": "Ang\u00e9lique",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "rating": 6.1,
+    "tags": [
+      "conflict",
+      "journey",
+      "relationships",
+      "exploration",
+      "discovery",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "heroic",
+      "exciting"
+    ],
+    "description": "A adventure film titled 'Ang\u00e9lique', exploring themes typical of the genre.",
+    "similar": [
+      "D\u00f6dspolare",
+      "Prayanam"
+    ]
+  },
+  {
+    "title": "Hail Caesar",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "rating": 3.2,
+    "tags": [
+      "humor",
+      "light-hearted",
+      "funny",
+      "popular"
+    ],
+    "mood": [
+      "fun",
+      "upbeat"
+    ],
+    "description": "A comedy film titled 'Hail Caesar', exploring themes typical of the genre.",
+    "similar": [
+      "The Dark Night of the Soul",
+      "La deuda"
+    ]
+  },
+  {
+    "title": "The Great Abandonment",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "rating": 7.4,
     "tags": [],
     "mood": [],
-    "description": "A talk-show film titled 'Entertainment Tomorrow', exploring themes typical of the genre.",
+    "description": "A documentary film titled 'The Great Abandonment', exploring themes typical of the genre.",
+    "similar": []
+  },
+  {
+    "title": "Boris I",
+    "year": 1985,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "rating": 7.9,
+    "tags": [
+      "emotional",
+      "relationships",
+      "conflict",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional"
+    ],
+    "description": "A biography film titled 'Boris I', exploring themes typical of the genre.",
+    "similar": [
+      "Apol\u00f4nio Brasil, Campe\u00e3o da Alegria",
+      "Tender Loving Care"
+    ]
+  },
+  {
+    "title": "Sokoote Rana",
+    "year": 2015,
+    "genres": [
+      "Family"
+    ],
+    "rating": 6.6,
+    "tags": [
+      "popular"
+    ],
+    "mood": [],
+    "description": "A family film titled 'Sokoote Rana', exploring themes typical of the genre.",
+    "similar": [
+      "Mobster",
+      "The Message"
+    ]
+  },
+  {
+    "title": "Aakhri Muqabala",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Musical"
+    ],
+    "rating": 4.5,
+    "tags": [
+      "journey",
+      "explosions",
+      "fight",
+      "hero",
+      "exploration",
+      "discovery",
+      "popular"
+    ],
+    "mood": [
+      "exciting",
+      "intense",
+      "energetic",
+      "heroic"
+    ],
+    "description": "A action film titled 'Aakhri Muqabala', exploring themes typical of the genre.",
+    "similar": [
+      "Mancation",
+      "A Christmas Horror Story"
+    ]
+  },
+  {
+    "title": "Mardani",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rating": 6.8,
+    "tags": [
+      "relationships",
+      "conflict",
+      "explosions",
+      "fight",
+      "hero",
+      "emotional",
+      "popular"
+    ],
+    "mood": [
+      "serious",
+      "emotional",
+      "intense",
+      "energetic"
+    ],
+    "description": "A action film titled 'Mardani', exploring themes typical of the genre.",
+    "similar": [
+      "Be My Star",
+      "Breaking Ranks"
+    ]
+  },
+  {
+    "title": "Spirits of the Superstition Mountains",
+    "year": 2023,
+    "genres": [
+      "Documentary",
+      "Talk-Show",
+      "Thriller"
+    ],
+    "rating": 6.4,
+    "tags": [
+      "suspense",
+      "mystery",
+      "tense"
+    ],
+    "mood": [
+      "suspenseful",
+      "dark"
+    ],
+    "description": "A documentary film titled 'Spirits of the Superstition Mountains', exploring themes typical of the genre.",
+    "similar": [
+      "The Antenna",
+      "Ring of Desire"
+    ]
+  },
+  {
+    "title": "Angel on My Shoulder",
+    "year": 1998,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "rating": 7.4,
+    "tags": [],
+    "mood": [],
+    "description": "A biography film titled 'Angel on My Shoulder', exploring themes typical of the genre.",
     "similar": []
   }
 ]
