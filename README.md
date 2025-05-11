@@ -31,17 +31,15 @@ git clone https://github.com/your-username/PAGE2SCREEN.git
 ```bash
 npm install
 ```
-3. Running the Application
-```
-```
-3.1. Start backend server:
+
+3. Start backend server:
 
 ```bash
 cd backend
 node server.js
 ```
 
-3.2. Start frontend development server:
+4. Start frontend development server:
 
 ```bash
 npm run dev -- --host
@@ -89,6 +87,7 @@ PAGE2SCREEN/
 ```
 
 🛠️ Scripts
+```
 Frontend:
 
 dev: Start Vite development server
@@ -102,15 +101,19 @@ Backend:
 dev: Start Node server with nodemon
 
 start: Launch production server
+```
 
 🔧 Configuration
+```
 Edit tailwind.config.js for styling customization
 
 Modify books.json/movies.json to update media database
 
 Adjust recommendationEngine.js for AI model settings
+```
 
 📦 Dependencies
+```
 Frontend:
 
 React 18
@@ -128,3 +131,4 @@ Express.js
 XAI Module
 
 Recommendation Engine
+```
